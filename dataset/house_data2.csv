@@ -1,0 +1,721 @@
+,address,long,lat,data_url,price_$CAN,beds,baths,sqft,type
+483,"1 The Esplanade Ave Toronto, Toronto, Ontario",-79.376143,43.645695,/CA/Home-For-Sale/ON/Toronto/Downtown-Toronto/St-Lawrence/1-The-Esplanade-Ave-Toronto/85866581.html,"$899,000 CAD",2 Beds,2 Baths,899 Sqft,Residential
+216,"10 Capreol Crt, Toronto, Ontario",-79.395637,43.640346,/CA/Condo-For-Sale/ON/Toronto/Cityplace/10-Capreol-Crt/87411993.html,"$799,900 CAD",2 Beds,2 Baths,750 Sqft,Condo
+614,"10 Stonehill Crt Toronto Ontario M1W2X8, Toronto, Ontario",-79.313968,43.794908,/CA/Home-For-Sale/ON/Toronto/L-Amoreaux/10-Stonehill-Crt-Toronto-Ontario-M1W2X8/75988848.html,"$439,800 CAD",3 Beds,2 Baths,1300 Sqft,Apartment
+3,"280 Keele Street , Toronto, Ontario",-79.464562,43.665248,/CA/Home-For-Sale/ON/Toronto/West-End-Toronto/High-Park/280-Keele-Street-/85914340.html,"$1,498,000 CAD",6 Beds,3 Baths,--,Single family
+4,"108 Bartley Drive, Toronto, Ontario",-79.3101748,43.7222951,/CA/Home-For-Sale/ON/Toronto/Victoria-Park-Village/108-Bartley-Drive/87394444.html,"$995,900 CAD",--,--,--,Townhouse
+5,"130 Resurrection Road, Toronto, Ontario",-79.531388,43.644483,/CA/Home-For-Sale/ON/Toronto/Islington-Village/130-Resurrection-Road/84039230.html,"$789,000 CAD",3 Beds,2 Baths,--,Townhouse
+6,"102 Resurrection Road, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Islington-Village/102-Resurrection-Road/86999199.html,"$799,000 CAD",2 Beds,1 Bath,--,Townhouse
+450,"100 Harbour St, Toronto, Ontario",-79.379316,43.641709,/CA/Home-For-Sale/ON/Toronto/Harbourfront/100-Harbour-St/86769955.html,"$728,000 CAD",1 Bed,1 Bath,599 Sqft,Residential
+25,"102 Madison Avenue, Toronto, Ontario",-79.404949,43.671848,/CA/Home-For-Sale/ON/Toronto/The-Annex/102-Madison-Avenue/87381960.html,"$4,750,000 CAD",6 Beds,7 Baths,4676 Sqft,Residential
+385,"1029 King St W Toronto, Toronto, Ontario",-79.416262,43.640994,/CA/Home-For-Sale/ON/Toronto/King-West-Village/1029-King-St-W-Toronto/86557579.html,"$599,900 CAD",1 Bed,1 Bath,799 Sqft,Residential
+28,"1030 King Street West, Toronto, Ontario",-79.415993,43.64163,/CA/Condo-For-Sale/ON/Toronto/King-West-Village/1030-King-Street-West/87327583.html,"$599,900 CAD",1 Bed,1 Bath,699 Sqft,Condo
+586,"11 Brunel Crt, Toronto, Ontario",-79.393735,43.639272,/CA/Home-For-Sale/ON/Toronto/Cityplace/11-Brunel-Crt/85604956.html,"$678,000 CAD",1 Bed,1 Bath,699 Sqft,Residential
+162,"11 Cartwright Avenue, Toronto, Ontario",-79.457726,43.723419,/CA/Home-For-Sale/ON/Toronto/Downsview/11-Cartwright-Avenue/87416216.html,"$1,340,000 CAD",5 Beds,2 Baths,1200 Sqft,Residential
+13,"51 East Liberty St, Toronto, Ontario",-79.412811,43.638563,/CA/Condo-For-Sale/ON/Toronto/King-West-Village/51-East-Liberty-St/85319469.html,"$499,000 CAD",1 Bed,1 Bath,--,Condo
+14,"175 Norseman St, Toronto, Ontario",-79.521797,43.633355,/CA/Home-For-Sale/ON/Toronto/The-Queensway/175-Norseman-St/85243796.html,"$1,029,900 CAD",3 Beds,3 Baths,--,Residential
+15,"62 Lynd Avenue, Toronto, Ontario",-79.449065,43.651321,/CA/Home-For-Sale/ON/Toronto/Roncesvalles/62-Lynd-Avenue/86999225.html,"$1,198,000 CAD",3 Beds,2 Baths,--,Single family
+636,"11 Garnet Ave Toronto, Toronto, Ontario",-79.421542,43.668907,/CA/Home-For-Sale/ON/Toronto/Christie-Pits/11-Garnet-Ave-Toronto/85825706.html,"$1,799,000 CAD",3 Beds,5 Baths,2500 Sqft,Residential
+159,"111 Bathurst Street Toronto ON , Toronto, Ontario",-79.402811,43.645124,/CA/Home-For-Sale/ON/Toronto/Fashion-District/111-Bathurst-Street-Toronto-ON-/87460841.html,"$788,888 CAD",1 Bed,1 Bath,799 Sqft,Residential
+686,"111 St Clair Ave W Toronto, Toronto, Ontario",-79.399511,43.686651,/CA/Home-For-Sale/ON/Toronto/Deer-Park/111-St-Clair-Ave-W-Toronto/85868138.html,"$789,000 CAD",1 Bed,2 Baths,899 Sqft,Residential
+12,"1151 Markham Rd., Toronto, Ontario",-79.231107,43.776168,/CA/Condo-For-Sale/ON/Toronto/Curran-Hall/1151-Markham-Rd/85799236.html,"$599,900 CAD",1 Bed,1 Bath,872 Sqft,Condo
+20,"250 Manitoba St, Toronto, Ontario",-79.489962,43.624447,/CA/Condo-For-Sale/ON/Toronto/Mimico/250-Manitoba-St/85243803.html,"$729,000 CAD",2 Beds,2 Baths,--,Condo
+21,"85 Queens Wharf Rd, Toronto, Ontario",-79.398839,43.638833,/CA/Condo-For-Sale/ON/Toronto/Cityplace/85-Queens-Wharf-Rd/85246442.html,"$485,000 CAD",--,1 Bath,--,Condo
+732,"Central Etobicoke, Toronto, Ontario",-79.5602,43.6609,/CA/Home-For-Sale/ON/Toronto/West-Deane-Park/Central-Etobicoke/85243822.html,"$1,150,000 CAD",3 Beds,2 Baths,--,Residential
+756,"65 East Liberty St, Toronto, Ontario",-79.414143,43.638158,/CA/Condo-For-Sale/ON/Toronto/King-West-Village/65-East-Liberty-St/85245741.html,"$574,900 CAD",1 Bed,1 Bath,--,Condo
+24,"5101 Dundas St 401, Toronto, Ontario",-79.5320113349258,43.6451569416206,/CA/Condo-For-Sale/ON/Toronto/Islington-Village/5101-Dundas-St-/87412086.html,"$599,900 CAD",1 Bed,2 Baths,--,Condo
+780,"618 WINONA DR, Toronto, Ontario",-79.4377461,43.6943567,/CA/Home-For-Sale/ON/Toronto/Oakwood-Vaughan/618-WINONA-DR/86815051.html,"$1,099,900 CAD",3 Beds,2 Baths,--,Single family
+26,"370 Rhodes Ave, Toronto, Ontario",-79.3213406,43.6749984,/CA/Home-For-Sale/ON/Toronto/Leslieville/370-Rhodes-Ave/82780687.html,"$1,599,000 CAD",6 Beds,4 Baths,--,Residential
+27,--,0,0,/CA/Home-For-Sale/ON/Toronto/Markham-Rd-and-Sheppard-Ave/77198346.html,"$300,000 CAD",--,--,--,Townhouse
+804,"One Delisle, Toronto, Ontario",-79.396728,43.68899,/CA/Condo-For-Sale/ON/Toronto/Deer-Park/One-Delisle/86094439.html,"$500,000 CAD",--,--,--,Condo
+828,"2794 Eglinton Ave E Toronto Ontario M1J 2C8, Toronto, Ontario",-79.242701,43.73816,/CA/Home-For-Sale/ON/Toronto/Bendale/2794-Eglinton-Ave-E-Toronto-Ontario-M1J-2C8/82071673.html,"$689,000 CAD",--,--,--,Residential
+30,"17 Zorra St Toronto Ontario M8Z4Z6, Toronto, Ontario",-79.521545,43.621156,/CA/Home-For-Sale/ON/Toronto/The-Queensway/17-Zorra-St-Toronto-Ontario-M8Z4Z6/80549771.html,"$499,990 CAD",2 Beds,2 Baths,--,Apartment
+31,"150 East Liberty, Toronto, Ontario",-79.416315,43.638776,/CA/Condo-For-Sale/ON/Toronto/King-West-Village/150-East-Liberty/86230059.html,"$558,500 CAD",1 Bed,1 Bath,--,Condo
+32,"61 Jim Baird Mews Toronto Ontario M3L0C3, Toronto, Ontario",-79.521914,43.727393,/CA/Home-For-Sale/ON/Toronto/Downsview/61-Jim-Baird-Mews-Toronto-Ontario-M3L0C3/82440670.html,"$639,000 CAD",4 Beds,4 Baths,--,Residential
+33,"18 Kenaston Gdns, Toronto, Ontario",-79.386148,43.76582,/CA/Home-For-Sale/ON/Toronto/Bayview-Village/18-Kenaston-Gdns/85825572.html,"$569,000 CAD",1 Bed,2 Baths,--,Apartment
+34,"No address available, Toronto, Ontario",-79.2312375,43.7761614,/CA/Home-For-Sale/ON/Toronto/Curran-Hall/No-address-available/80198034.html,"$439,990 CAD",1 Bed,1 Bath,--,Apartment
+852,"1075 Ellesmere Rd # 80, Toronto, Ontario",-79.310846,43.75936,/CA/Home-For-Sale/ON/Toronto/Maryvale/1075-Ellesmere-Rd-80/84741838.html,"$880,000 CAD",3 Beds,3 Baths,--,Residential
+36,"11045 Sheppard Ave Toronto Ontario M1B3W5, Toronto, Ontario",-79.411015,43.761561,/CA/Home-For-Sale/ON/Toronto/Lansing/11045-Sheppard-Ave-Toronto-Ontario-M1B3W5/80521285.html,"$1,290,000 CAD",4 Beds,5 Baths,--,Residential
+37,"637 Lake Shore Blvd., Toronto, Ontario",-79.402086,43.635311,/CA/Condo-For-Sale/ON/Toronto/Fort-York/637-Lake-Shore-Blvd/86230105.html,"$700,000 CAD",1 Bed,1 Bath,--,Condo
+38,"36 Park Lawn Rd., Toronto, Ontario",-79.484151,43.623604,/CA/Condo-For-Sale/ON/Toronto/Mimico/36-Park-Lawn-Rd/86092771.html,"$613,801 CAD",1 Bed,1 Bath,--,Condo
+39,"1030 King St W Toronto Ontario M6K0B4, Toronto, Ontario",-79.415993,43.64163,/CA/Home-For-Sale/ON/Toronto/King-West-Village/1030-King-St-W-Toronto-Ontario-M6K0B4/87384607.html,"$599,900 CAD",1 Bed,1 Bath,--,Apartment
+40,"88 Blue Jays Way, Toronto, Ontario",-79.392318,43.645475,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/88-Blue-Jays-Way/84109631.html,"$729,900 CAD",--,--,--,Residential
+41,"55 Dennett Dr, Toronto, Ontario",-79.273111,43.792042,/CA/Home-For-Sale/ON/Toronto/Agincourt/55-Dennett-Dr/86019485.html,"$1,999,888 CAD",4 Beds,5 Baths,--,Residential
+42,"830 Lawrence Ave West, Toronto, Ontario",-79.45384,43.714246,/CA/Home-For-Sale/ON/Toronto/Glen-Park/830-Lawrence-Ave-West/83736653.html,"$524,900 CAD",1 Bed,1 Bath,--,Apartment
+43,"No address available, Toronto, Ontario",-79.383403,43.775282,/CA/Home-For-Sale/ON/Toronto/Bayview-Village/No-address-available/85781258.html,"$3,858,000 CAD",4 Beds,6 Baths,--,Residential
+44,"14 Highwood Ave., Toronto, Ontario",-79.291808,43.742404,/CA/Home-For-Sale/ON/Toronto/Wexford/14-Highwood-Ave/85825401.html,"$749,000 CAD",3 Beds,2 Baths,--,Residential
+45,"3740 Don Mills Rd Toronto Ontario M2H3J2, Toronto, Ontario",-79.353705,43.801566,/CA/Home-For-Sale/ON/Toronto/Hillcrest-Village/3740-Don-Mills-Rd-Toronto-Ontario-M2H3J2/84966302.html,"$549,999 CAD",--,--,--,Residential
+876,"181 Dundas St E Toronto Ontario M5A1Z4, Toronto, Ontario",-79.374122,43.656969,/CA/Home-For-Sale/ON/Toronto/Garden-District/181-Dundas-St-E-Toronto-Ontario-M5A1Z4/87382024.html,"$610,000 CAD",1 Bed,1 Bath,--,Apartment
+47,"150 East Liberty Street, Toronto, Ontario",-79.416315,43.638776,/CA/Condo-For-Sale/ON/Toronto/King-West-Village/150-East-Liberty-Street/85972716.html,"$499,999 CAD",1 Bed,1 Bath,--,Condo
+48,"8 Mercer St toronto, Toronto, Ontario",-79.389928,43.645937,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/8-Mercer-St-toronto/84109609.html,"$729,000 CAD",--,--,--,Residential
+49,"65 Bremner Blvd., Toronto, Ontario",-79.380647,43.642914,/CA/Condo-For-Sale/ON/Toronto/Financial-District/65-Bremner-Blvd/86230459.html,"$628,000 CAD",1 Bed,1 Bath,--,Condo
+900,"24 Cedar Brae Blvd, Toronto, Ontario",-79.233552,43.742971,/CA/Home-For-Sale/ON/Toronto/Woburn/24-Cedar-Brae-Blvd/85866100.html,"$1,699,000 CAD",4 Beds,6 Baths,--,Residential
+924,"111 Playfair Ave, Toronto, Ontario",-79.462661,43.708682,/CA/Home-For-Sale/ON/Toronto/Glen-Park/111-Playfair-Ave/85781209.html,"$899,900 CAD",3 Beds,2 Baths,--,Residential
+948,"5580 Sheppard Ave E # 218, Toronto, Ontario",-79.401141,43.763903,/CA/Condo-For-Sale/ON/Toronto/Willowdale/5580-Sheppard-Ave-E-218/86557561.html,"$409,995 CAD",2 Beds,1 Bath,--,Condo
+53,"209 Fort York Blvd Toronto Ontario M5V4A1, Toronto, Ontario",-79.404733,43.637167,/CA/Home-For-Sale/ON/Toronto/Fort-York/209-Fort-York-Blvd-Toronto-Ontario-M5V4A1/84966022.html,"$579,000 CAD",1 Bed,1 Bath,--,Apartment
+54,"2433 Dufferin Street, York, ON, Toronto, Ontario",-79.450912,43.699124,/CA/Condo-For-Sale/ON/Toronto/Fairbank/2433-Dufferin-Street-York-ON/81538732.html,"$389,900 CAD",--,--,--,Condo
+972,"8 Silver Bell Grve # 1003, Toronto, Ontario",-79.3849,43.6529,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/8-Silver-Bell-Grve-1003/86557572.html,"$399,900 CAD",2 Beds,2 Baths,--,Condo
+996,"31 Island Rd Toronto Ontario M1C2P5, Toronto, Ontario",-79.14219,43.797178,/CA/Home-For-Sale/ON/Toronto/West-Rouge/31-Island-Rd-Toronto-Ontario-M1C2P5/82112619.html,"$499,000 CAD",4 Beds,2 Baths,--,Residential
+1020,"9 Valhalla Inn Road, Toronto, Ontario",-79.559513,43.639851,/CA/Condo-For-Sale/ON/Toronto/Eatonville/9-Valhalla-Inn-Road/87459438.html,"$525,000 CAD",2 Beds,1 Bath,--,Condo
+1044,"160 Flemington Rd, Toronto, Ontario",-79.448226,43.723148,/CA/Home-For-Sale/ON/Toronto/Downsview/160-Flemington-Rd/80557471.html,"$599,000 CAD",2 Beds,2 Baths,--,Apartment
+59,"121 Mcmahon Dr, Toronto, Ontario",-79.370623,43.767726,/CA/Home-For-Sale/ON/Toronto/Bayview-Village/121-Mcmahon-Dr/86092830.html,"$479,000 CAD",1 Bed,1 Bath,--,Apartment
+1068,"19 Benalto Rd, Toronto, Ontario",-79.451286,43.718031,/CA/Home-For-Sale/ON/Toronto/Downsview/19-Benalto-Rd/85319479.html,"$2,399,000 CAD",5 Beds,5 Baths,--,Residential
+61,"1185 The Queensway Ave, Toronto, Ontario",-79.521674,43.62177,/CA/Condo-For-Sale/ON/Toronto/The-Queensway/1185-The-Queensway-Ave/85741960.html,"$525,000 CAD",1 Bed,1 Bath,--,Condo
+62,"85 East Liberty St Toronto Ontario M6K3R4, Toronto, Ontario",-79.413319,43.639519,/CA/Home-For-Sale/ON/Toronto/King-West-Village/85-East-Liberty-St-Toronto-Ontario-M6K3R4/71711983.html,"$615,000 CAD",2 Beds,2 Baths,--,Apartment
+63,"14 Tucker St Thorold (Niagara) Ontario, Toronto, Ontario",-79.305865,43.716326,/CA/Home-For-Sale/ON/Toronto/Parkview-Hills/14-Tucker-St-Thorold-Niagara-Ontario/87198740.html,"$650,000 CAD",--,--,--,Residential
+64,"1070 Progress Ave Toronto Ontario M1B0C5, Toronto, Ontario",-79.209,43.8129,/CA/Home-For-Sale/ON/Toronto/Malvern/1070-Progress-Ave-Toronto-Ontario-M1B0C5/78764665.html,"$489,000 CAD",2 Beds,2 Baths,--,Residential
+1092,"222 The Esplanade, Toronto, Ontario",-79.365656,43.649748,/CA/Condo-For-Sale/ON/Toronto/Downtown-Toronto/St-Lawrence/222-The-Esplanade/85530400.html,"$610,000 CAD",2 Beds,--,--,Condo
+1116,"1213 Glencairn Ave, Toronto, Ontario",-79.46304,43.704867,/CA/Home-For-Sale/ON/Toronto/Glen-Park/1213-Glencairn-Ave/85319459.html,"$1,388,000 CAD",3 Beds,4 Baths,--,Residential
+67,"600 Fleet St, Toronto, Ontario",-79.400081,43.636706,/CA/Condo-For-Sale/ON/Toronto/Fort-York/600-Fleet-St/85530202.html,"$619,900 CAD",1 Bed,1 Bath,--,Condo
+68,"151 Dan Leckie Way, Toronto, Ontario",-79.397969,43.639805,/CA/Home-For-Sale/ON/Toronto/Cityplace/151-Dan-Leckie-Way/84066160.html,"$899,000 CAD",--,--,--,Residential
+69,"51 E. Liberty Street, Toronto, Ontario",-79.412811,43.638563,/CA/Condo-For-Sale/ON/Toronto/King-West-Village/51-E-Liberty-Street/86152810.html,"$543,000 CAD",1 Bed,1 Bath,--,Condo
+70,"15 Iceboat Terr Toronto Ontario M5V4A5, Toronto, Ontario",-79.397807,43.640311,/CA/Home-For-Sale/ON/Toronto/Cityplace/15-Iceboat-Terr-Toronto-Ontario-M5V4A5/82487055.html,"$615,000 CAD",1 Bed,1 Bath,--,Apartment
+71,"Untitled. Toronto, Toronto, Ontario",-79.3932,43.710969,/CA/Condo-For-Sale/ON/Toronto/Sherwood-Park/Untitled-Toronto/85649994.html,"$400,000 CAD",--,--,--,Condo
+72,"155 Yorkville Avenue, Toronto, Ontario",-79.394354,43.670266,/CA/Condo-For-Sale/ON/Toronto/Yorkville/155-Yorkville-Avenue/85825716.html,"$560,000 CAD",1 Bed,1 Bath,--,Condo
+73,"10 Capreol Court, Toronto, Ontario",-79.395743,43.640255,/CA/Condo-For-Sale/ON/Toronto/Cityplace/10-Capreol-Court/86154317.html,"$582,000 CAD",1 Bed,1 Bath,--,Condo
+74,"18 Cartwright Ave, Toronto, Ontario",-79.458503,43.723713,/CA/Home-For-Sale/ON/Toronto/Downsview/18-Cartwright-Ave/84871731.html,"$1,498,000 CAD",3 Beds,3 Baths,--,Residential
+75,"31 Faversham Cres, Toronto, Ontario",-79.576668,43.659131,/CA/Home-For-Sale/ON/Toronto/Eringate/31-Faversham-Cres/87412014.html,"$799,000 CAD",--,--,--,House
+76,--,0,0,/CA/Condo-For-Sale/ON/Toronto/510-KING-ST-E/87413456.html,"$499,000 CAD",1 Bed,1 Bath,--,Condo
+77,"55 Centre Ave , Toronto, Ontario",-79.386656,43.654587,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/55-Centre-Ave-/87400264.html,"$399,900 CAD",1 Bed,1 Bath,--,Condo
+78,"26 ASHLEY PARK RD, Toronto, Ontario",-79.51802,43.663385,/CA/Home-For-Sale/ON/Toronto/Humber-Valley-Village/26-ASHLEY-PARK-RD/87383860.html,"$2,998,000 CAD",5 Beds,5 Baths,--,Single family
+79,"44 MITCHELL AVE, Toronto, Ontario",-79.4075145,43.6451217,/CA/Home-For-Sale/ON/Toronto/Niagara/44-MITCHELL-AVE/87170044.html,"$798,000 CAD",2 Beds,1 Bath,--,Single family
+80,"35 YEOMANS RD, Toronto, Ontario",-79.4401273,43.7478208,/CA/Home-For-Sale/ON/Toronto/Wilson-Heights-Dublin-Heights-Clanton-Park/35-YEOMANS-RD/87414597.html,"$2,250,000 CAD",4 Beds,4 Baths,--,Single family
+1140,"390 Ruth Ave, Toronto, Ontario",-79.399752,43.7931284,/CA/Home-For-Sale/ON/Toronto/Newtonbrook/390-Ruth-Ave/87390911.html,"$1,790,000 CAD",8 Beds,4 Baths,--,Residential
+82,"426 University Ave , Toronto, Ontario",-79.38852,43.65398,/CA/Condo-For-Sale/ON/Toronto/Grange-Park/426-University-Ave-/87401207.html,"$659,000 CAD",1 Bed,1 Bath,--,Condo
+83,"455 Front St E , Toronto, Ontario",-79.356535,43.652693,/CA/Condo-For-Sale/ON/Toronto/West-Don-Lands/455-Front-St-E-/87454810.html,"$1,099,000 CAD",2 Beds,3 Baths,--,Condo
+84,"233 Melrose St, Toronto, Ontario",-79.4984652,43.6200413,/CA/Home-For-Sale/ON/Toronto/Mimico/233-Melrose-St/87416337.html,"$2,525,000 CAD",15 Beds,9 Baths,--,Residential
+85,"38 Cliffside Dr, Toronto, Ontario",-79.2505111,43.7035734,/CA/Home-For-Sale/ON/Toronto/Cliffside/38-Cliffside-Dr/87416399.html,"$1,390,000 CAD",7 Beds,3 Baths,--,Residential
+86,"17 Gore St, Toronto, Ontario",-79.4147112,43.6543839,/CA/Home-For-Sale/ON/Toronto/Trinity-Bellwoods/17-Gore-St/87416335.html,"$1,599,000 CAD",4 Beds,4 Baths,--,Residential
+87,"90 LING RD Ph201, Toronto, Ontario",-79.1838517,43.7673699,/CA/Condo-For-Sale/ON/Toronto/West-Hill/90-LING-RD/87414632.html,"$425,000 CAD",3 Beds,2 Baths,--,Condo
+1164,"15 Victoria Ave E, Toronto, Ontario",-79.5081955,43.6974503,/CA/Home-For-Sale/ON/Toronto/Weston/15-Victoria-Ave-E/87390895.html,"$699,000 CAD",3 Beds,2 Baths,--,Residential
+89,"60 TALLON RD, Toronto, Ontario",-79.5390665,43.6877282,/CA/Home-For-Sale/ON/Toronto/Richview/60-TALLON-RD/87414427.html,"$1,050,000 CAD",4 Beds,2 Baths,--,Single family
+1188,"41 Markbrook Lane 1202, Toronto, Ontario",-79.5864692,43.7583999,/CA/Condo-For-Sale/ON/Toronto/Smithfield/41-Markbrook-Lane/87416336.html,"$469,900 CAD",2 Beds,2 Baths,--,Condo
+91,"3531 LAKE SHORE BLVD W 315, Toronto, Ontario",-79.5327704,43.5943758,/CA/Condo-For-Sale/ON/Toronto/Long-Branch/3531-LAKE-SHORE-BLVD-W/87414760.html,"$599,000 CAD",2 Beds,1 Bath,--,Condo
+92,"11 Applewood Lane 234, Toronto, Ontario",-79.5670747,43.6506136,/CA/Condo-For-Sale/ON/Toronto/Bloordale-West-Mall/11-Applewood-Lane/87416527.html,"$729,900 CAD",3 Beds,3 Baths,--,Condo
+93,"5 Lisa Rd, Toronto, Ontario",-79.207458,43.765951,/CA/Home-For-Sale/ON/Toronto/Curran-Hall/5-Lisa-Rd/87459391.html,"$649,000 CAD",3 Beds,2 Baths,--,Residential
+94,"21 Murray Rd, Toronto, Ontario",-79.4719046,43.7306033,/CA/Home-For-Sale/ON/Toronto/Downsview/21-Murray-Rd/87416446.html,"$824,900 CAD",3 Beds,1 Bath,--,Residential
+1212,"29 Rosebank Dr 1510, Toronto, Ontario",-79.2347826,43.7912675,/CA/Condo-For-Sale/ON/Toronto/Malvern/29-Rosebank-Dr/87416428.html,"$649,000 CAD",4 Beds,3 Baths,--,Condo
+96,"15 Iceboat Terr ``, Toronto, Ontario",-79.397807,43.640311,/CA/Condo-For-Sale/ON/Toronto/Cityplace/15-Iceboat-Terr-/87400510.html,"$599,000 CAD",1 Bed,1 Bath,--,Condo
+97,"300 FORMAN AVE, Toronto, Ontario",-79.3858633,43.7077272,/CA/Home-For-Sale/ON/Toronto/Davisville-Village/300-FORMAN-AVE/87414599.html,"$1,299,000 CAD",3 Beds,2 Baths,--,Single family
+98,"423 Lawson Rd, Toronto, Ontario",-79.1431956,43.7888217,/CA/Home-For-Sale/ON/Toronto/Centennial-Port-Union/423-Lawson-Rd/87329010.html,"$899,000 CAD",3 Beds,2 Baths,--,Residential
+99,"15 ZORRA ST 605, Toronto, Ontario",-79.5210872,43.621354,/CA/Condo-For-Sale/ON/Toronto/The-Queensway/15-ZORRA-ST/87414746.html,"$509,900 CAD",2 Beds,1 Bath,--,Condo
+100,"992 DUNDAS ST W, Toronto, Ontario",-79.4154626,43.6505856,/CA/Home-For-Sale/ON/Toronto/Trinity-Bellwoods/992-DUNDAS-ST-W/87414562.html,"$1,999,000 CAD",7 Beds,3 Baths,--,Single family
+101,"100 Prudential Dr # 1711, Toronto, Ontario",-79.3849,43.6529,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/100-Prudential-Dr-1711/87459380.html,"$499,000 CAD",3 Beds,2 Baths,--,Condo
+102,"185 Roehampton Ave, Toronto, Ontario",-79.3929849,43.7089649,/CA/Home-For-Sale/ON/Toronto/Sherwood-Park/185-Roehampton-Ave/87416716.html,"$539,900 CAD",1 Bed,1 Bath,--,Apartment
+103,"89 EARL GREY RD, Toronto, Ontario",-79.337896,43.6774893,/CA/Home-For-Sale/ON/Toronto/Greektown/89-EARL-GREY-RD/87414620.html,"$899,000 CAD",3 Beds,1 Bath,--,Single family
+104,"33 Bay St `, Toronto, Ontario",-79.377329,43.642651,/CA/Condo-For-Sale/ON/Toronto/Harbourfront/33-Bay-St-/87401800.html,"$929,900 CAD",2 Beds,2 Baths,--,Condo
+105,"39 AMSTERDAM AVE, Toronto, Ontario",-79.3029102,43.714182,/CA/Home-For-Sale/ON/Toronto/Topham-Park/39-AMSTERDAM-AVE/87414327.html,"$1,688,000 CAD",5 Beds,5 Baths,--,Single family
+106,"21 Iceboat Terr , Toronto, Ontario",-79.396901,43.640507,/CA/Condo-For-Sale/ON/Toronto/Cityplace/21-Iceboat-Terr-/87400286.html,"$449,900 CAD",1 Bed,1 Bath,--,Condo
+107,"70 GIVINS ST, Toronto, Ontario",-79.4184637,43.6466178,/CA/Home-For-Sale/ON/Toronto/Trinity-Bellwoods/70-GIVINS-ST/87414556.html,"$1,549,000 CAD",5 Beds,3 Baths,--,Single family
+108,"459 LOGAN AVE, Toronto, Ontario",-79.3445589,43.6659872,/CA/Home-For-Sale/ON/Toronto/East-End-Toronto/Riverdale/459-LOGAN-AVE/87413845.html,"$1,249,000 CAD",3 Beds,3 Baths,--,Single family
+109,"858 Palmerston Ave, Toronto, Ontario",-79.4163406,43.6715996,/CA/Home-For-Sale/ON/Toronto/Seaton-Village/858-Palmerston-Ave/87416480.html,"$1,499,000 CAD",3 Beds,3 Baths,--,Residential
+1236,"111 Bathurst St, Toronto, Ontario",-79.402811,43.645124,/CA/Condo-For-Sale/ON/Toronto/Fashion-District/111-Bathurst-St/87459192.html,"$1,149,000 CAD",--,--,1100 Sqft,Condo
+1260,"9 TIPPETT RD 218, Toronto, Ontario",-79.4459517,43.733207,/CA/Condo-For-Sale/ON/Toronto/Wilson-Heights-Dublin-Heights-Clanton-Park/9-TIPPETT-RD/87413462.html,"$680,000 CAD",2 Beds,2 Baths,--,Condo
+112,"4655 B Dundas St W, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/4655-B-Dundas-St-W/87412027.html,"$1,445,000 CAD",--,--,--,House
+113,"3 Navy Wharf Crt , Toronto, Ontario",-79.390859,43.640311,/CA/Condo-For-Sale/ON/Toronto/Cityplace/3-Navy-Wharf-Crt-/87400577.html,"$599,900 CAD",1 Bed,1 Bath,--,Condo
+114,"230 Queens Quay W , Toronto, Ontario",-79.384172,43.639721,/CA/Condo-For-Sale/ON/Toronto/Harbourfront/230-Queens-Quay-W-/87453526.html,"$975,000 CAD",2 Beds,2 Baths,--,Condo
+115,"234 ALBION RD #807, Toronto, Ontario",-79.5442443,43.7211735,/CA/Condo-For-Sale/ON/Toronto/The-Elms/234-ALBION-RD/87413887.html,"$398,900 CAD",2 Beds,1 Bath,--,Condo
+116,"9 Sandcliff Rd, Toronto, Ontario",-79.497583,43.677598,/CA/Home-For-Sale/ON/Toronto/Lambton/9-Sandcliff-Rd/87382686.html,"$800,000 CAD",3 Beds,2 Baths,--,Residential
+117,"370 WALLACE AVE 603, Toronto, Ontario",-79.4521165,43.6608869,/CA/Condo-For-Sale/ON/Toronto/Junction-Triangle/370-WALLACE-AVE/87414774.html,"$899,000 CAD",3 Beds,2 Baths,--,Condo
+1284,"716 THE WEST MALL 604, Toronto, Ontario",-79.5702403,43.6564957,/CA/Condo-For-Sale/ON/Toronto/Eringate/716-THE-WEST-MALL/87414803.html,"$419,900 CAD",3 Beds,2 Baths,--,Condo
+1308,"117 Maria St, Toronto, Ontario",-79.4768227,43.6663908,/CA/Home-For-Sale/ON/Toronto/The-Junction/117-Maria-St/87416453.html,"$995,000 CAD",3 Beds,3 Baths,--,Residential
+120,"467 St Johns Rd, Toronto, Ontario",-79.4887525,43.6619878,/CA/Home-For-Sale/ON/Toronto/Runnymede/467-St-Johns-Rd/87416530.html,"$1,099,000 CAD",4 Beds,3 Baths,--,Residential
+121,"576 Front West St W, Toronto, Ontario",-79.3849,43.6529,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/576-Front-West-St-W/87458462.html,"$999,900 CAD",--,--,950 Sqft,Condo
+122,"1001 Bay St , Toronto, Ontario",-79.387119,43.665412,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/1001-Bay-St-/87401685.html,"$868,800 CAD",2 Beds,2 Baths,--,Condo
+123,"17 TETTENHALL RD, Toronto, Ontario",-79.544903,43.6758975,/CA/Home-For-Sale/ON/Toronto/Princess-Gardens/17-TETTENHALL-RD/86296779.html,"$2,149,000 CAD",6 Beds,4 Baths,--,Single family
+124,"236 BOWOOD AVE, Toronto, Ontario",-79.3956506,43.7303071,/CA/Home-For-Sale/ON/Toronto/Bedford-Park/236-BOWOOD-AVE/87414604.html,"$1,299,000 CAD",3 Beds,2 Baths,--,Single family
+125,"576 Front West St W `, Toronto, Ontario",-79.400745,43.641138,/CA/Condo-For-Sale/ON/Toronto/Fashion-District/576-Front-West-St-W-/87454579.html,"$999,900 CAD",3 Beds,2 Baths,--,Condo
+126,"111 Bathurst St , Toronto, Ontario",-79.402811,43.645124,/CA/Condo-For-Sale/ON/Toronto/Fashion-District/111-Bathurst-St-/87455402.html,"$1,149,000 CAD",2 Beds,2 Baths,--,Condo
+127,"41 MARKBROOK LANE # 1202, Toronto, Ontario",-79.5864692,43.7583999,/CA/Condo-For-Sale/ON/Toronto/Smithfield/41-MARKBROOK-LANE/87414737.html,"$469,900 CAD",2 Beds,2 Baths,--,Condo
+128,"51 Halton St , Toronto, Ontario",-79.419835,43.648177,/CA/Home-For-Sale/ON/Toronto/Trinity-Bellwoods/51-Halton-St-/87453520.html,"$899,900 CAD",3 Beds,3 Baths,--,Residential
+129,"100 ANTIBES DR 1605, Toronto, Ontario",-79.4470506,43.7804828,/CA/Condo-For-Sale/ON/Toronto/Westminster-Branson/100-ANTIBES-DR/87414593.html,"$525,800 CAD",3 Beds,2 Baths,--,Condo
+130,"16 BROOKERS LANE 1604, Toronto, Ontario",-79.4784876,43.626966,/CA/Condo-For-Sale/ON/Toronto/Humber-Bay/16-BROOKERS-LANE/87414767.html,"$649,900 CAD",2 Beds,2 Baths,--,Condo
+131,"1 Palace Pier Crt 2401, Toronto, Ontario",-79.4737311,43.6304473,/CA/Condo-For-Sale/ON/Toronto/Humber-Bay/1-Palace-Pier-Crt/87390885.html,"$1,480,000 CAD",2 Beds,3 Baths,--,Condo
+132,--,0,0,/CA/Condo-For-Sale/ON/Toronto/1030-KING-ST-W/87414583.html,"$709,900 CAD",2 Beds,1 Bath,--,Condo
+133,"50 CATHEDRAL BLUFFS DR, Toronto, Ontario",-79.2306211,43.7233439,/CA/Home-For-Sale/ON/Toronto/Cliffcrest/50-CATHEDRAL-BLUFFS-DR/87414611.html,"$889,900 CAD",4 Beds,2 Baths,--,Single family
+134,"383 Sorauren Ave 801, Toronto, Ontario",-79.4448325,43.6502056,/CA/Condo-For-Sale/ON/Toronto/Roncesvalles/383-Sorauren-Ave/87416517.html,"$639,000 CAD",2 Beds,2 Baths,--,Condo
+1332,"25 Capreol Crt , Toronto, Ontario",-79.395675,43.640415,/CA/Condo-For-Sale/ON/Toronto/Cityplace/25-Capreol-Crt-/87400294.html,"$460,000 CAD",1 Bed,1 Bath,--,Condo
+136,"28 Ted Rogers Way `, Toronto, Ontario",-79.380589,43.670579,/CA/Condo-For-Sale/ON/Toronto/Church-and-Wellesley/28-Ted-Rogers-Way-/87401475.html,"$789,000 CAD",2 Beds,1 Bath,--,Condo
+137,"88 Harbour St ``, Toronto, Ontario",-79.379699,43.641755,/CA/Condo-For-Sale/ON/Toronto/Harbourfront/88-Harbour-St-/87453732.html,"$999,000 CAD",2 Beds,2 Baths,--,Condo
+138,"783 Bathurst St , Toronto, Ontario",-79.410721,43.664577,/CA/Condo-For-Sale/ON/Toronto/Harbord-Village/783-Bathurst-St-/87400310.html,"$499,900 CAD",--,1 Bath,--,Condo
+139,"205 Sherway Gardens Rd 1510, Toronto, Ontario",-79.5573342,43.6095737,/CA/Condo-For-Sale/ON/Toronto/The-Queensway/205-Sherway-Gardens-Rd/87416483.html,"$650,000 CAD",2 Beds,2 Baths,--,Condo
+140,"37 Marina Ave, Toronto, Ontario",-79.5348508,43.5930495,/CA/Home-For-Sale/ON/Toronto/Long-Branch/37-Marina-Ave/87416385.html,"$1,400,000 CAD",5 Beds,3 Baths,--,Residential
+141,"71 WOOLENSCOTE CIRC, Toronto, Ontario",-79.6022387,43.7332587,/CA/Home-For-Sale/ON/Toronto/West-Humber-Clairville/71-WOOLENSCOTE-CIRC/87414797.html,"$729,900 CAD",3 Beds,4 Baths,--,Single family
+142,"3 Grey Stone walk dr, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/3-Grey-Stone-walk-dr/87460715.html,"$469,000 CAD",2 Beds,2 Baths,--,Residential
+1356,"301 Prudential Dr 1104, Toronto, Ontario",-79.2680497,43.7502272,/CA/Condo-For-Sale/ON/Toronto/Kennedy-Park/301-Prudential-Dr/87416460.html,"$329,900 CAD",2 Beds,1 Bath,--,Condo
+1380,"25 Cole St , Toronto, Ontario",-79.364969,43.660228,/CA/Condo-For-Sale/ON/Toronto/Regent-Park-Trefann-Court/25-Cole-St-/87400331.html,"$525,000 CAD",1 Bed,1 Bath,--,Condo
+145,--,0,0,/CA/Condo-For-Sale/ON/Toronto/223-ST-CLAIR-AVE-W/87239370.html,"$1,798,000 CAD",3 Beds,3 Baths,--,Condo
+146,"8 DOVERCOURT RD 703, Toronto, Ontario",-79.42198,43.6416011,/CA/Condo-For-Sale/ON/Toronto/Liberty-Village/8-DOVERCOURT-RD/87413455.html,"$599,900 CAD",1 Bed,1 Bath,--,Condo
+147,"840 QUEENS PLATE DR 505, Toronto, Ontario",-79.6032718,43.7203841,/CA/Condo-For-Sale/ON/Toronto/West-Humber-Clairville/840-QUEENS-PLATE-DR/87414740.html,"$459,000 CAD",1 Bed,1 Bath,--,Condo
+148,"711 Bay St , Toronto, Ontario",-79.384742,43.658858,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/711-Bay-St-/87401165.html,"$649,900 CAD",1 Bed,1 Bath,--,Condo
+149,"70 BERNICE CRES, Toronto, Ontario",-79.5004201,43.6670832,/CA/Home-For-Sale/ON/Toronto/Lambton/70-BERNICE-CRES/86907572.html,"$789,000 CAD",3 Beds,2 Baths,--,Single family
+150,"46 BLANDFORD ST, Toronto, Ontario",-79.4404789,43.6884242,/CA/Home-For-Sale/ON/Toronto/Oakwood-Vaughan/46-BLANDFORD-ST/87414557.html,"$699,000 CAD",2 Beds,2 Baths,--,Single family
+151,"31 FAVERSHAM CRES, Toronto, Ontario",-79.5766521,43.6591345,/CA/Home-For-Sale/ON/Toronto/Eringate/31-FAVERSHAM-CRES/87414763.html,"$799,000 CAD",4 Beds,2 Baths,--,Single family
+152,"1184 AVENUE RD, Toronto, Ontario",-79.4116752,43.7113158,/CA/Home-For-Sale/ON/Toronto/Lytton-Park/1184-AVENUE-RD/87414542.html,"$1,399,900 CAD",5 Beds,3 Baths,--,Single family
+153,"35 Fontenay Crt , Toronto, Ontario",-79.511165,43.682511,/CA/Condo-For-Sale/ON/Toronto/Humber-Valley-Village/35-Fontenay-Crt-/87453461.html,"$899,000 CAD",2 Beds,2 Baths,--,Condo
+154,"11 CARTWRIGHT AVE, Toronto, Ontario",-79.4577395,43.7233973,/CA/Home-For-Sale/ON/Toronto/Downsview/11-CARTWRIGHT-AVE/87413367.html,"$1,340,000 CAD",5 Beds,2 Baths,--,Single family
+1404,"368 OLD ORCHARD GRVE, Toronto, Ontario",-79.417423,43.7322353,/CA/Home-For-Sale/ON/Toronto/Bedford-Park/368-OLD-ORCHARD-GRVE/87414548.html,"$1,299,900 CAD",3 Beds,3 Baths,--,Single family
+156,"Yonge/Lawrence, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/YongeLawrence/87415537.html,"$1,699,900 CAD",3 Beds,4 Baths,--,Single family
+157,"209 ATLAS AVE, Toronto, Ontario",-79.4333682,43.6878453,/CA/Home-For-Sale/ON/Toronto/Oakwood-Vaughan/209-ATLAS-AVE/87414581.html,"$1,649,000 CAD",4 Beds,4 Baths,--,Single family
+158,"5101 DUNDAS ST W 401, Toronto, Ontario",-79.5318472,43.6449402,/CA/Condo-For-Sale/ON/Toronto/Islington-Village/5101-DUNDAS-ST-W/87415100.html,"$599,900 CAD",2 Beds,2 Baths,--,Condo
+1428,"955 Bay St , Toronto, Ontario",-79.38698,43.664777,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/955-Bay-St-/87401055.html,"$649,000 CAD",1 Bed,1 Bath,--,Condo
+160,"761 BAY ST 312, Toronto, Ontario",-79.3848992,43.6595161,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/761-BAY-ST/87413461.html,"$679,900 CAD",1 Bed,1 Bath,--,Condo
+161,"16 Brookers Lane `, Toronto, Ontario",-79.47851,43.62693,/CA/Condo-For-Sale/ON/Toronto/Humber-Bay/16-Brookers-Lane-/87401759.html,"$899,000 CAD",2 Beds,2 Baths,--,Condo
+1452,"119 SPRINGDALE BLVD, Toronto, Ontario",-79.3270365,43.6867759,/CA/Home-For-Sale/ON/Toronto/Old-East-York/119-SPRINGDALE-BLVD/87414621.html,"$899,000 CAD",4 Beds,3 Baths,--,Single family
+163,"57 St Joseph St W , Toronto, Ontario",-79.388021,43.665388,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/57-St-Joseph-St-W-/87400336.html,"$599,000 CAD",--,1 Bath,--,Condo
+164,"18 AVA RD, Toronto, Ontario",-79.4188923,43.6979334,/CA/Home-For-Sale/ON/Toronto/Midtown-Toronto/Forest-Hill/18-AVA-RD/86738935.html,"$3,798,000 CAD",5 Beds,6 Baths,--,Single family
+165,"251 ELM RD, Toronto, Ontario",-79.4143083,43.7291378,/CA/Home-For-Sale/ON/Toronto/Bedford-Park/251-ELM-RD/87414576.html,"$1,529,900 CAD",3 Beds,2 Baths,--,Single family
+166,"21 Balmuto St `, Toronto, Ontario",-79.387356,43.669184,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/21-Balmuto-St-/87454675.html,"$999,990 CAD",2 Beds,2 Baths,--,Condo
+167,"2350 Bridletowne Circ 701, Toronto, Ontario",-79.317163,43.800706,/CA/Condo-For-Sale/ON/Toronto/L-Amoreaux/2350-Bridletowne-Circ/87416400.html,"$499,000 CAD",4 Beds,2 Baths,--,Condo
+168,"221 GLENCAIRN AVE, Toronto, Ontario",-79.4120682,43.7159498,/CA/Home-For-Sale/ON/Toronto/Lytton-Park/221-GLENCAIRN-AVE/87383985.html,"$2,499,900 CAD",4 Beds,4 Baths,--,Single family
+169,"141 Regina ave , Toronto, Ontario",-79.442448,43.725314,/CA/Home-For-Sale/ON/Toronto/Lawrence-Manor/141-Regina-ave-/87412039.html,"$1,290,000 CAD",3 Beds,2 Baths,--,Residential
+170,"102 RESURRECTION RD, Toronto, Ontario",-79.5314213,43.6443585,/CA/Condo-For-Sale/ON/Toronto/Islington-Village/102-RESURRECTION-RD/87383895.html,"$799,000 CAD",3 Beds,2 Baths,--,Condo
+171,"94 Purpledusk Tr, Toronto, Ontario",-79.2083023,43.7849766,/CA/Home-For-Sale/ON/Toronto/Seven-Oaks-Morningside/94-Purpledusk-Tr/87416695.html,"$799,000 CAD",4 Beds,3 Baths,--,Residential
+172,"300 BALLIOL ST 511, Toronto, Ontario",-79.3871417,43.699343,/CA/Condo-For-Sale/ON/Toronto/Davisville-Village/300-BALLIOL-ST/87414551.html,"$599,000 CAD",2 Beds,1 Bath,--,Condo
+173,--,0,0,/CA/Condo-For-Sale/ON/Toronto/575-BLOOR-ST-E/87413444.html,"$1,205,000 CAD",3 Beds,2 Baths,--,Condo
+174,"100 Western Battery Rd, Toronto, Ontario",-79.415795,43.639626,/CA/Condo-For-Sale/ON/Toronto/King-West-Village/100-Western-Battery-Rd/87459294.html,"$399,000 CAD",--,1 Bath,499 Sqft,Condo
+1476,"830 Lawrence Ave W, Toronto, Ontario",-79.45384,43.714246,/CA/Home-For-Sale/ON/Toronto/Glen-Park/830-Lawrence-Ave-W/87416623.html,"$479,000 CAD",1 Bed,1 Bath,--,Apartment
+176,"8 Charlotte St ``, Toronto, Ontario",-79.394064,43.646016,/CA/Condo-For-Sale/ON/Toronto/Entertainment-District/8-Charlotte-St-/87455987.html,"$2,599,000 CAD",3 Beds,3 Baths,--,Condo
+177,"120 DALLIMORE CIRC 516, Toronto, Ontario",-79.3320772,43.7302124,/CA/Condo-For-Sale/ON/Toronto/Don-Mills/120-DALLIMORE-CIRC/87414577.html,"$428,000 CAD",1 Bed,1 Bath,--,Condo
+178,"124 BOULTBEE AVE, Toronto, Ontario",-79.3339293,43.6740499,/CA/Home-For-Sale/ON/Toronto/Greektown/124-BOULTBEE-AVE/87413844.html,"$1,249,000 CAD",4 Beds,3 Baths,--,Single family
+179,"91 Muir Dr # 64, Toronto, Ontario",-79.3849,43.6529,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/91-Muir-Dr-64/87459385.html,"$488,000 CAD",4 Beds,3 Baths,--,Condo
+180,"58 KIMBOURNE AVE, Toronto, Ontario",-79.3339036,43.6895635,/CA/Home-For-Sale/ON/Toronto/Old-East-York/58-KIMBOURNE-AVE/87383764.html,"$1,295,000 CAD",5 Beds,4 Baths,--,Single family
+181,"5 CONCORDE PL 1305, Toronto, Ontario",-79.3272765,43.7303213,/CA/Condo-For-Sale/ON/Toronto/Flemingdon-Park/5-CONCORDE-PL/87414574.html,"$599,000 CAD",2 Beds,2 Baths,--,Condo
+1500,"40 Fennimore Cres, Toronto, Ontario",-79.5205382,43.7468786,/CA/Home-For-Sale/ON/Toronto/Jane-and-Finch/40-Fennimore-Cres/87416492.html,"$775,000 CAD",9 Beds,2 Baths,--,Residential
+183,"14 Scenic Millway 7, Toronto, Ontario",-79.381122,43.7501107,/CA/Condo-For-Sale/ON/Toronto/York-Mills/14-Scenic-Millway/87416402.html,"$999,000 CAD",4 Beds,3 Baths,--,Condo
+184,"220 Burndale Ave, Toronto, Ontario",-79.4230709,43.7616482,/CA/Home-For-Sale/ON/Toronto/Lansing/220-Burndale-Ave/87416430.html,"$1,399,990 CAD",3 Beds,2 Baths,--,Residential
+185,"70 Distillery Lane , Toronto, Ontario",-79.357935,43.650118,/CA/Condo-For-Sale/ON/Toronto/Distillery-District/70-Distillery-Lane-/87455252.html,"$1,149,000 CAD",2 Beds,2 Baths,--,Condo
+186,"394 WOODFIELD RD, Toronto, Ontario",-79.3252775,43.6745612,/CA/Home-For-Sale/ON/Toronto/Leslieville/394-WOODFIELD-RD/87414636.html,"$799,900 CAD",2 Beds,1 Bath,--,Single family
+187,"269 LAPPIN Avenue, Toronto, Ontario",-79.4463576,43.6646833,/CA/Home-For-Sale/ON/Toronto/Junction-Triangle/269-LAPPIN-Avenue/87384033.html,"$899,000 CAD",3 Beds,1 Bath,--,Single family
+188,"35 Nipigon Ave, Toronto, Ontario",-79.4170246,43.797562,/CA/Home-For-Sale/ON/Toronto/Newtonbrook/35-Nipigon-Ave/87416458.html,"$1,150,000 CAD",6 Beds,2 Baths,--,Residential
+189,"40 EVELYN WIGGINS DR, Toronto, Ontario",-79.4953569,43.7674633,/CA/Home-For-Sale/ON/Toronto/York-University-Heights/40-EVELYN-WIGGINS-DR/87414788.html,"$900,000 CAD",9 Beds,7 Baths,--,Single family
+190,"110 Ling Rd # 24, Toronto, Ontario",-79.3849,43.6529,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/110-Ling-Rd-24/87413156.html,"$525,000 CAD",3 Beds,2 Baths,--,Condo
+191,"5 EVERSON DR 743, Toronto, Ontario",-79.4067596,43.7574404,/CA/Condo-For-Sale/ON/Toronto/Willowdale/5-EVERSON-DR/87413829.html,"$615,000 CAD",3 Beds,2 Baths,--,Condo
+192,"295 CLINTON ST, Toronto, Ontario",-79.4161661,43.6616988,/CA/Home-For-Sale/ON/Toronto/Palmerston-Little-Italy/295-CLINTON-ST/87414600.html,"$1,549,900 CAD",6 Beds,3 Baths,--,Single family
+193,"1331 Bay St 802, Toronto, Ontario",-79.3902415,43.67286,/CA/Condo-For-Sale/ON/Toronto/Yorkville/1331-Bay-St/87416475.html,"$1,199,900 CAD",2 Beds,2 Baths,--,Condo
+194,"33 Hazelton Ave, Toronto, Ontario",-79.3931303,43.6717578,/CA/Home-For-Sale/ON/Toronto/Yorkville/33-Hazelton-Ave/87416377.html,"$21,000,000 CAD",5 Beds,4 Baths,--,Residential
+195,"28 Wellesley St E , Toronto, Ontario",-79.383025,43.66551,/CA/Condo-For-Sale/ON/Toronto/Church-and-Wellesley/28-Wellesley-St-E-/87453352.html,"$868,000 CAD",2 Beds,2 Baths,--,Condo
+196,"1 REIDMOUNT AVE 401, Toronto, Ontario",-79.2856683,43.7851587,/CA/Condo-For-Sale/ON/Toronto/Agincourt/1-REIDMOUNT-AVE/87414624.html,"$418,000 CAD",4 Beds,2 Baths,--,Condo
+197,"1 BLOOR ST E 5809, Toronto, Ontario",-79.3861581,43.669963,/CA/Condo-For-Sale/ON/Toronto/Church-and-Wellesley/1-BLOOR-ST-E/87414564.html,"$1,498,800 CAD",2 Beds,2 Baths,--,Condo
+198,"290 ADELAIDE ST E 3408, Toronto, Ontario",-79.3700668,43.6519459,/CA/Condo-For-Sale/ON/Toronto/Old-Town/290-ADELAIDE-ST-E/87413824.html,"$739,000 CAD",2 Beds,1 Bath,--,Condo
+199,"36 Blue Jays Way Lph20, Toronto, Ontario",-79.3921465,43.6449299,/CA/Condo-For-Sale/ON/Toronto/Entertainment-District/36-Blue-Jays-Way/87390886.html,"$879,000 CAD",2 Beds,2 Baths,--,Condo
+200,"37 Marina Ave, Toronto, Ontario",-79.534735,43.592914,/CA/Home-For-Sale/ON/Toronto/Long-Branch/37-Marina-Ave/87412023.html,"$1,400,000 CAD",--,--,--,House
+201,"5 CLEVELAND ST, Toronto, Ontario",-79.3771223,43.7003501,/CA/Home-For-Sale/ON/Toronto/Davisville-Village/5-CLEVELAND-ST/87413817.html,"$1,199,800 CAD",2 Beds,2 Baths,--,Single family
+202,"274 FOREST HILL RD, Toronto, Ontario",-79.4154142,43.6999419,/CA/Home-For-Sale/ON/Toronto/Midtown-Toronto/Forest-Hill/274-FOREST-HILL-RD/87414560.html,"$6,298,000 CAD",5 Beds,8 Baths,--,Single family
+203,"88 BLUE JAYS WAY 1605, Toronto, Ontario",-79.3924571,43.6455046,/CA/Condo-For-Sale/ON/Toronto/Entertainment-District/88-BLUE-JAYS-WAY/87413453.html,"$999,900 CAD",2 Beds,2 Baths,--,Condo
+204,"25 Capreol Crt 2908, Toronto, Ontario",-79.3955384,43.6408171,/CA/Condo-For-Sale/ON/Toronto/Cityplace/25-Capreol-Crt/87390884.html,"$460,000 CAD",1 Bed,1 Bath,--,Condo
+205,"122 HEDDINGTON AVE, Toronto, Ontario",-79.4149899,43.7066157,/CA/Home-For-Sale/ON/Toronto/Allenby/122-HEDDINGTON-AVE/87414580.html,"$1,499,000 CAD",3 Beds,1 Bath,--,Single family
+206,"28 George St, Toronto, Ontario",-79.5211956,43.703071,/CA/Home-For-Sale/ON/Toronto/Weston/28-George-St/87416379.html,"$1,400,000 CAD",5 Beds,3 Baths,--,Residential
+207,"125 Perth Ave, Toronto, Ontario",-79.449157,43.658192,/CA/Home-For-Sale/ON/Toronto/Junction-Triangle/125-Perth-Ave/87382110.html,"$1,199,000 CAD",3 Beds,2 Baths,--,Residential
+208,"136 HOLBORNE AVE, Toronto, Ontario",-79.3188179,43.6947454,/CA/Home-For-Sale/ON/Toronto/Old-East-York/136-HOLBORNE-AVE/87241123.html,"$999,000 CAD",4 Beds,4 Baths,--,Single family
+1524,"6 SONORA TERR, Toronto, Ontario",-79.2496742,43.7013836,/CA/Home-For-Sale/ON/Toronto/Cliffside/6-SONORA-TERR/87383773.html,"$1,799,000 CAD",5 Beds,5 Baths,--,Single family
+210,"225 Birmingham St., Toronto, Ontario",-79.512175,43.601269,/CA/Home-For-Sale/ON/Toronto/New-Toronto/225-Birmingham-St/87460837.html,"$6,899,000 CAD",--,--,--,Residential
+211,"170 SUMACH ST 2003, Toronto, Ontario",-79.3605766,43.6602919,/CA/Condo-For-Sale/ON/Toronto/Regent-Park-Trefann-Court/170-SUMACH-ST/87413460.html,"$649,000 CAD",2 Beds,1 Bath,--,Condo
+212,"200 Dundas St E `, Toronto, Ontario",-79.373963,43.657379,/CA/Condo-For-Sale/ON/Toronto/Garden-District/200-Dundas-St-E-/87400307.html,"$479,000 CAD",--,1 Bath,--,Condo
+213,"110 MCGILLIVRAY AVE, Toronto, Ontario",-79.4310279,43.7363145,/CA/Home-For-Sale/ON/Toronto/Ledbury-Park/110-MCGILLIVRAY-AVE/86501556.html,"$2,599,000 CAD",5 Beds,5 Baths,--,Single family
+214,"208 Niagara St 19, Toronto, Ontario",-79.407624,43.6439094,/CA/Condo-For-Sale/ON/Toronto/Niagara/208-Niagara-St/87416481.html,"$649,900 CAD",2 Beds,1 Bath,--,Condo
+215,"51 TROLLEY CRES 517, Toronto, Ontario",-79.3553724,43.6569834,/CA/Condo-For-Sale/ON/Toronto/Downtown-Toronto/Corktown/51-TROLLEY-CRES/87414545.html,"$865,000 CAD",2 Beds,2 Baths,--,Condo
+1548,"58 HUNTING RIDGE, Toronto, Ontario",-79.551526,43.681842,/CA/Home-For-Sale/ON/Toronto/Richview/58-HUNTING-RIDGE/87415207.html,"$1,199,999 CAD",4 Beds,3 Baths,--,Residential
+217,"14 SUNDRIDGE DR, Toronto, Ontario",-79.2985127,43.7216639,/CA/Home-For-Sale/ON/Toronto/Clairlea/14-SUNDRIDGE-DR/87414640.html,"$1,099,000 CAD",4 Beds,4 Baths,--,Single family
+218,"255 RICHMOND ST E 421, Toronto, Ontario",-79.3704469,43.6528446,/CA/Condo-For-Sale/ON/Toronto/Old-Town/255-RICHMOND-ST-E/87413459.html,"$780,000 CAD",1 Bed,1 Bath,--,Condo
+219,"24 FLORENCE WYLE LANE 8, Toronto, Ontario",-79.3532571,43.6616534,/CA/Condo-For-Sale/ON/Toronto/East-End-Toronto/Riverdale/24-FLORENCE-WYLE-LANE/87414635.html,"$599,900 CAD",2 Beds,2 Baths,--,Condo
+220,"1910 LAKE SHORE BLVD W 1005, Toronto, Ontario",-79.4662576,43.636309,/CA/Condo-For-Sale/ON/Toronto/Swansea/1910-LAKE-SHORE-BLVD-W/87383073.html,"$599,000 CAD",3 Beds,2 Baths,--,Condo
+221,"28 BRAEMAR AVE, Toronto, Ontario",-79.4084337,43.7002876,/CA/Home-For-Sale/ON/Toronto/Midtown-Toronto/Forest-Hill/28-BRAEMAR-AVE/87414590.html,"$2,749,000 CAD",5 Beds,4 Baths,--,Single family
+222,"33 RISDON CRT, Toronto, Ontario",-79.5834216,43.6636165,/CA/Home-For-Sale/ON/Toronto/Eringate/33-RISDON-CRT/87413504.html,"$1,199,000 CAD",3 Beds,3 Baths,--,Single family
+1572,"20 KESSACK CRT, Toronto, Ontario",-79.2177326,43.8007296,/CA/Home-For-Sale/ON/Toronto/Malvern/20-KESSACK-CRT/87413474.html,"$759,900 CAD",4 Beds,2 Baths,--,Single family
+224,"36 Park Lawn Rd , Toronto, Ontario",-79.484151,43.623604,/CA/Condo-For-Sale/ON/Toronto/Mimico/36-Park-Lawn-Rd-/87400756.html,"$614,900 CAD",1 Bed,1 Bath,--,Condo
+225,"55 EAST LIBERTY ST 1906, Toronto, Ontario",-79.4128024,43.6384523,/CA/Condo-For-Sale/ON/Toronto/King-West-Village/55-EAST-LIBERTY-ST/87414565.html,"$899,900 CAD",2 Beds,2 Baths,--,Condo
+226,"711 BAY ST 1716, Toronto, Ontario",-79.3846429,43.6588103,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/711-BAY-ST/87383730.html,"$649,900 CAD",3 Beds,1 Bath,--,Condo
+227,"39 HOBEN PLACE, Toronto, Ontario",-79.567493,43.685446,/CA/Home-For-Sale/ON/Toronto/Richview/39-HOBEN-PLACE/87415210.html,"$1,225,000 CAD",3 Beds,3 Baths,--,Residential
+1596,"15 COLUMBINE AVE, Toronto, Ontario",-79.3097829,43.6711393,/CA/Home-For-Sale/ON/Toronto/The-Beach/15-COLUMBINE-AVE/87414642.html,"$1,699,000 CAD",5 Beds,3 Baths,--,Single family
+1620,"151 Merton St Th1, Toronto, Ontario",-79.3913078,43.6970681,/CA/Condo-For-Sale/ON/Toronto/Moore-Park/151-Merton-St/87416510.html,"$1,349,000 CAD",4 Beds,3 Baths,--,Condo
+230,--,0,0,/CA/Condo-For-Sale/ON/Toronto/381-FRONT-ST-W/87413831.html,"$749,000 CAD",2 Beds,1 Bath,--,Condo
+231,"467 St Johns Rd, Toronto, Ontario",-79.488789,43.662016,/CA/Home-For-Sale/ON/Toronto/Runnymede/467-St-Johns-Rd/87412021.html,"$1,099,000 CAD",--,--,--,House
+232,"45 Wellesworth Dr, Toronto, Ontario",-79.57815,43.666309,/CA/Home-For-Sale/ON/Toronto/Eringate/45-Wellesworth-Dr/87412018.html,"$949,900 CAD",--,--,--,House
+233,"145 Macpherson Ave, Toronto, Ontario",-79.3958653,43.6778019,/CA/Home-For-Sale/ON/Toronto/Yorkville/145-Macpherson-Ave/87416459.html,"$3,385,000 CAD",4 Beds,3 Baths,--,Residential
+234,"1603 EGLINTON AVE W 717, Toronto, Ontario",-79.4430945,43.6969107,/CA/Condo-For-Sale/ON/Toronto/Oakwood-Vaughan/1603-EGLINTON-AVE-W/87414594.html,"$549,900 CAD",2 Beds,1 Bath,--,Condo
+235,"592 ORIOLE PKWY, Toronto, Ontario",-79.4068504,43.7059387,/CA/Home-For-Sale/ON/Toronto/North-Toronto/592-ORIOLE-PKWY/87414602.html,"$4,449,000 CAD",8 Beds,7 Baths,--,Single family
+236,"284 Brock Ave , Toronto, Ontario",-79.436304,43.650413,/CA/Home-For-Sale/ON/Toronto/Brockton-Village/284-Brock-Ave-/87401720.html,"$899,000 CAD",2 Beds,2 Baths,--,Residential
+237,"5 LISA RD, Toronto, Ontario",-79.2074209,43.7659658,/CA/Home-For-Sale/ON/Toronto/Curran-Hall/5-LISA-RD/87241116.html,"$649,000 CAD",3 Beds,2 Baths,--,Single family
+238,"145 Pandora Circ, Toronto, Ontario",-79.2299863,43.76859,/CA/Home-For-Sale/ON/Toronto/Woburn/145-Pandora-Circ/87416512.html,"$719,000 CAD",4 Beds,2 Baths,--,Residential
+239,"198 ENNERDALE RD, Toronto, Ontario",-79.4531054,43.6934429,/CA/Home-For-Sale/ON/Toronto/Fairbank/198-ENNERDALE-RD/87363110.html,"$729,000 CAD",3 Beds,2 Baths,--,Single family
+1644,"146 HAMILTON ST, Toronto, Ontario",-79.3525037,43.6625554,/CA/Home-For-Sale/ON/Toronto/East-End-Toronto/Riverdale/146-HAMILTON-ST/87383775.html,"$999,000 CAD",3 Beds,2 Baths,--,Single family
+241,"118 Merchants' Wharf , Toronto, Ontario",-79.361324,43.645263,/CA/Condo-For-Sale/ON/Toronto/Downtown-Toronto/St-Lawrence/118-Merchants-Wharf-/87456151.html,"$2,800,000 CAD",2 Beds,3 Baths,--,Condo
+242,"42 EVELYN WIGGINS DR, Toronto, Ontario",-79.4954009,43.7675044,/CA/Home-For-Sale/ON/Toronto/York-University-Heights/42-EVELYN-WIGGINS-DR/87414779.html,"$900,000 CAD",9 Beds,6 Baths,--,Single family
+243,"26 WALTONICE RD, Toronto, Ontario",-79.2469704,43.7219851,/CA/Home-For-Sale/ON/Toronto/Cliffcrest/26-WALTONICE-RD/87414628.html,"$749,900 CAD",3 Beds,2 Baths,--,Single family
+244,"311 Bay St , Toronto, Ontario",-79.38044,43.649783,/CA/Condo-For-Sale/ON/Toronto/Financial-District/311-Bay-St-/87455846.html,"$2,499,000 CAD",2 Beds,3 Baths,--,Condo
+245,"36 BLUE JAYS WAY 622, Toronto, Ontario",-79.3921465,43.6449299,/CA/Condo-For-Sale/ON/Toronto/Entertainment-District/36-BLUE-JAYS-WAY/87414549.html,"$499,000 CAD",1 Bed,1 Bath,--,Condo
+246,--,0,0,/CA/Condo-For-Sale/ON/Toronto/37-Four-Winds-Dr/87416529.html,"$399,000 CAD",2 Beds,2 Baths,--,Condo
+247,"5 Hanna Ave `, Toronto, Ontario",-79.41845,43.637468,/CA/Condo-For-Sale/ON/Toronto/King-West-Village/5-Hanna-Ave-/87401130.html,"$649,800 CAD",1 Bed,2 Baths,--,Condo
+248,"250 MANITOBA ST 716, Toronto, Ontario",-79.490482,43.6244864,/CA/Condo-For-Sale/ON/Toronto/Mimico/250-MANITOBA-ST/87414792.html,"$789,000 CAD",3 Beds,2 Baths,--,Condo
+249,"17 Zorra St ```, Toronto, Ontario",-79.521545,43.621156,/CA/Condo-For-Sale/ON/Toronto/The-Queensway/17-Zorra-St-/87401024.html,"$617,000 CAD",2 Beds,2 Baths,--,Condo
+250,"102 Resurrection Rd 41, Toronto, Ontario",-79.5314213,43.6443585,/CA/Condo-For-Sale/ON/Toronto/Islington-Village/102-Resurrection-Rd/87416484.html,"$799,000 CAD",3 Beds,2 Baths,--,Condo
+251,"25 JERSEY AVE, Toronto, Ontario",-79.4164075,43.6589374,/CA/Home-For-Sale/ON/Toronto/Palmerston-Little-Italy/25-JERSEY-AVE/87414546.html,"$975,000 CAD",2 Beds,2 Baths,--,Single family
+252,"No address available 1221, Toronto, Ontario",-79.6164854,43.7247648,/CA/Condo-For-Sale/ON/Toronto/West-Humber-Clairville/No-address-available/87390871.html,"$440,000 CAD",1 Bed,1 Bath,--,Condo
+253,--,0,0,/CA/Condo-For-Sale/ON/Toronto/2716-ST-CLAIR-AVE-E/87414631.html,"$689,900 CAD",3 Beds,2 Baths,--,Condo
+254,"125 Perth Ave , Toronto, Ontario",-79.449157,43.658192,/CA/Home-For-Sale/ON/Toronto/Junction-Triangle/125-Perth-Ave-/87412073.html,"$1,199,000 CAD",3 Beds,2 Baths,--,Residential
+255,"140 BATHURST ST Th06, Toronto, Ontario",-79.403577,43.6455813,/CA/Condo-For-Sale/ON/Toronto/Niagara/140-BATHURST-ST/87413833.html,"$999,999 CAD",4 Beds,2 Baths,--,Condo
+256,"2055 DANFORTH AVE 209, Toronto, Ontario",-79.3135648,43.6853968,/CA/Condo-For-Sale/ON/Toronto/Greektown/2055-DANFORTH-AVE/87414612.html,"$519,000 CAD",1 Bed,1 Bath,--,Condo
+257,"1091 KINGSTON RD 725, Toronto, Ontario",-79.2823101,43.6808563,/CA/Condo-For-Sale/ON/Toronto/Birch-Cliff/1091-KINGSTON-RD/87413468.html,"$779,900 CAD",2 Beds,2 Baths,--,Condo
+258,"2315 Sheppard Ave W 53, Toronto, Ontario",-79.5344579,43.7343312,/CA/Condo-For-Sale/ON/Toronto/Humberlea/2315-Sheppard-Ave-W/87416371.html,"$599,000 CAD",3 Beds,2 Baths,--,Condo
+1668,"257 DUNVEGAN RD, Toronto, Ontario",-79.4153968,43.6993744,/CA/Home-For-Sale/ON/Toronto/Midtown-Toronto/Forest-Hill/257-DUNVEGAN-RD/81991621.html,"$5,500,000 CAD",7 Beds,6 Baths,--,Single family
+260,"62 Lynd Ave, Toronto, Ontario",-79.448963,43.6512691,/CA/Home-For-Sale/ON/Toronto/Roncesvalles/62-Lynd-Ave/87416462.html,"$1,198,000 CAD",3 Beds,2 Baths,--,Residential
+261,"19 GRAND TRUNK CRES 802, Toronto, Ontario",-79.3826739,43.6415312,/CA/Condo-For-Sale/ON/Toronto/Cityplace/19-GRAND-TRUNK-CRES/87170010.html,"$798,000 CAD",2 Beds,2 Baths,--,Condo
+262,"760 SHEPPARD AVE W 904, Toronto, Ontario",-79.4479957,43.7538077,/CA/Condo-For-Sale/ON/Toronto/Bathurst-Manor/760-SHEPPARD-AVE-W/87414566.html,"$929,999 CAD",3 Beds,2 Baths,--,Condo
+263,"2181 YONGE ST 407, Toronto, Ontario",-79.3978274,43.7052905,/CA/Condo-For-Sale/ON/Toronto/Davisville-Village/2181-YONGE-ST/87414544.html,"$1,329,000 CAD",2 Beds,3 Baths,--,Condo
+264,"#P3-21A -62 FOREST MANOR RD P3-21A, Toronto, Ontario",-79.345726,43.7739223,/CA/Other-Sale/ON/Toronto/Henry-Farm/P3-21A-62-FOREST-MANOR-RD/87413443.html,"$37,000 CAD",--,--,--,Other
+265,"150 East Liberty St, Toronto, Ontario",-79.416315,43.638776,/CA/Condo-For-Sale/ON/Toronto/King-West-Village/150-East-Liberty-St/87416633.html,"$565,000 CAD",1 Bed,1 Bath,--,Condo
+266,"77 NORTHEY DR, Toronto, Ontario",-79.3668349,43.7639753,/CA/Home-For-Sale/ON/Toronto/York-Mills/77-NORTHEY-DR/86094101.html,"$1,178,000 CAD",4 Beds,2 Baths,--,Single family
+267,"29 Rosebank Dr # 1510, Toronto, Ontario",-79.3849,43.6529,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/29-Rosebank-Dr-1510/87459369.html,"$649,000 CAD",4 Beds,3 Baths,--,Condo
+268,"282 BROOKE AVE, Toronto, Ontario",-79.42248,43.7327663,/CA/Home-For-Sale/ON/Toronto/Ledbury-Park/282-BROOKE-AVE/86446760.html,"$2,695,000 CAD",5 Beds,6 Baths,--,Single family
+269,"300 MANITOBA ST 215, Toronto, Ontario",-79.4894498,43.6242085,/CA/Condo-For-Sale/ON/Toronto/Mimico/300-MANITOBA-ST/87414773.html,"$550,000 CAD",1 Bed,2 Baths,--,Condo
+270,"120 Harrison Garden Blvd 421, Toronto, Ontario",-79.4034541,43.7579627,/CA/Condo-For-Sale/ON/Toronto/Willowdale/120-Harrison-Garden-Blvd/87416467.html,"$599,888 CAD",2 Beds,2 Baths,--,Condo
+271,"45 WELLESWORTH DR, Toronto, Ontario",-79.5781445,43.6662797,/CA/Home-For-Sale/ON/Toronto/Eringate/45-WELLESWORTH-DR/87413885.html,"$949,900 CAD",4 Beds,2 Baths,--,Single family
+272,"4 SYNDICATE AVE, Toronto, Ontario",-79.4887141,43.6848086,/CA/Home-For-Sale/ON/Toronto/Mount-Dennis/4-SYNDICATE-AVE/87414735.html,"$699,900 CAD",3 Beds,2 Baths,--,Single family
+273,"1030 Danforth Avenue, Toronto, Ontario",-79.336346,43.680866,/CA/Condo-For-Sale/ON/Toronto/Greektown/1030-Danforth-Avenue/82968526.html,"$400,000 CAD",--,--,--,Condo
+274,"88 Harbour St toronto, Toronto, Ontario",-79.379699,43.641755,/CA/Home-For-Sale/ON/Toronto/Harbourfront/88-Harbour-St-toronto/84497000.html,"$549,900 CAD",--,1 Bath,499 Sqft,Residential
+1692,"20 Olive Ave, Toronto, Ontario",-79.414423,43.779241,/CA/Condo-For-Sale/ON/Toronto/Willowdale/20-Olive-Ave/75313211.html,"$550,000 CAD",2 Beds,1 Bath,--,Condo
+276,"17 Zorra St `, Toronto, Ontario",-79.521545,43.621156,/CA/Condo-For-Sale/ON/Toronto/The-Queensway/17-Zorra-St-/87313166.html,"$449,800 CAD",1 Bed,1 Bath,--,Condo
+277,"195 Bonis Ave W, Toronto, Ontario",-79.291911,43.785769,/CA/Condo-For-Sale/ON/Toronto/Tam-O-Shanter-Sullivan/195-Bonis-Ave-W/78079932.html,"$468,888 CAD",2 Beds,2 Baths,--,Condo
+278,"50 Ann O'reilly Rd, Toronto, Ontario",-79.330498,43.774523,/CA/Condo-For-Sale/ON/Toronto/Pleasantview/50-Ann-Oreilly-Rd/81686350.html,"$505,000 CAD",1 Bed,1 Bath,--,Condo
+279,"Keele Street & George Butchart Drive, Toronto, Ontario",-79.3849,43.6529,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/Keele-Street-George-Butchart-Drive/82258472.html,"$413,990 CAD",--,--,--,Condo
+1716,"Scout Condos - 1791 Saint Clair Avenue West, Toronto, ON, Toronto, Ontario",-79.46192,43.673547,/CA/Home-For-Sale/ON/Toronto/Carleton-Village/Scout-Condos-1791-Saint-Clair-Avenue-West-Toronto-ON/86041589.html,"$500,000 CAD",--,--,--,Residential
+281,"120 Bayview Ave, Toronto, Ontario",-79.354472,43.653939,/CA/Condo-For-Sale/ON/Toronto/West-Don-Lands/120-Bayview-Ave/82677285.html,"$540,000 CAD",1 Bed,2 Baths,--,Condo
+1740,"105 The Queensway Ave, Toronto, Ontario",-79.471248,43.635791,/CA/Condo-For-Sale/ON/Toronto/Swansea/105-The-Queensway-Ave/86383442.html,"$489,000 CAD",1 Bed,1 Bath,--,Condo
+283,"132 Queens Quay E, Toronto, Ontario",-79.368251,43.644408,/CA/Condo-For-Sale/ON/Toronto/Downtown-Toronto/St-Lawrence/132-Queens-Quay-E/80344619.html,"$449,900 CAD",--,--,--,Condo
+284,"50 Bruyeres Mews `, Toronto, Ontario",-79.402447,43.637655,/CA/Condo-For-Sale/ON/Toronto/Fort-York/50-Bruyeres-Mews-/87329146.html,"$579,999 CAD",1 Bed,1 Bath,--,Condo
+285,"66 Forest Manor Rd, Toronto, Ontario",-79.346188,43.774241,/CA/Condo-For-Sale/ON/Toronto/Henry-Farm/66-Forest-Manor-Rd/79085000.html,"$588,000 CAD",1 Bed,2 Baths,--,Condo
+286,"150 Fairview Mall Dr, Toronto, Ontario",-79.344309,43.780074,/CA/Condo-For-Sale/ON/Toronto/Don-Valley-Village/150-Fairview-Mall-Dr/75025169.html,"$479,900 CAD",1 Bed,1 Bath,--,Condo
+287,"286 Main St, Toronto, Ontario",-79.301864,43.687478,/CA/Home-For-Sale/ON/Toronto/Danforth-Village/286-Main-St/80092627.html,"$400,000 CAD",--,--,--,Apartment
+288,"2 Clairtrell Rd, Toronto, Ontario",-79.390573,43.766375,/CA/Condo-For-Sale/ON/Toronto/Willowdale/2-Clairtrell-Rd/80557001.html,"$499,900 CAD",1 Bed,1 Bath,--,Condo
+289,"No address available, Toronto, Ontario",-79.397794,43.638317,/CA/Home-For-Sale/ON/Toronto/Cityplace/No-address-available/62050171.html,"$489,000 CAD",1 Bed,1 Bath,--,Apartment
+290,"17 Zorra St, Toronto, Ontario",-79.521545,43.621156,/CA/Condo-For-Sale/ON/Toronto/The-Queensway/17-Zorra-St/86609311.html,"$617,900 CAD",2 Beds,1 Bath,--,Condo
+291,"No address available, Toronto, Ontario",-79.412811,43.638563,/CA/Condo-For-Sale/ON/Toronto/King-West-Village/No-address-available/86230155.html,"$625,000 CAD",1 Bed,2 Baths,--,Condo
+292,"in.DE Condos - 219 Dundas Street East, Toronto, ON, Toronto, Ontario",-79.372846,43.657505,/CA/Home-For-Sale/ON/Toronto/Garden-District/inDE-Condos-219-Dundas-Street-East-Toronto-ON/86041588.html,"$646,990 CAD",--,--,--,Residential
+293,"90 Queens Wharf Rd Toronto Ontario M5V0J4, Toronto, Ontario",-79.399459,43.638721,/CA/Home-For-Sale/ON/Toronto/Cityplace/90-Queens-Wharf-Rd-Toronto-Ontario-M5V0J4/78087235.html,"$499,900 CAD",1 Bed,1 Bath,--,Apartment
+294,"565 Wilson Ave Toronto Ontario M3H5Y6, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/565-Wilson-Ave-Toronto-Ontario-M3H5Y6/80344708.html,"$549,990 CAD",2 Beds,2 Baths,--,Apartment
+295,"90 Park Lawn Rd, Toronto, Ontario",-79.485323,43.624334,/CA/Condo-For-Sale/ON/Toronto/Mimico/90-Park-Lawn-Rd/86680361.html,"$499,000 CAD",1 Bed,1 Bath,--,Condo
+296,"33 Shore Breeze Dr, Toronto, Ontario",-79.479288,43.623517,/CA/Condo-For-Sale/ON/Toronto/Humber-Bay/33-Shore-Breeze-Dr/86557287.html,"$499,990 CAD",1 Bed,1 Bath,--,Condo
+297,"No address available, Toronto, Ontario",-79.289857,43.785909,/CA/Home-For-Sale/ON/Toronto/Tam-O-Shanter-Sullivan/No-address-available/82584723.html,"$525,000 CAD",2 Beds,2 Baths,--,Apartment
+298,"1182 King St West, Toronto, Ontario",-79.426812,43.639285,/CA/Condo-For-Sale/ON/Toronto/Liberty-Village/1182-King-St-West/81111846.html,"$430,000 CAD",--,--,--,Condo
+299,"Clonmore Urban Towns - 168 Clonmore Drive, Toronto, ON, Toronto, Ontario",-79.277246,43.690544,/CA/Home-For-Sale/ON/Toronto/Birch-Cliff/Clonmore-Urban-Towns-168-Clonmore-Drive-Toronto-ON/86625169.html,"$700,000 CAD",--,--,--,Residential
+300,"25 Viking Lane `, Toronto, Ontario",-79.536791,43.638373,/CA/Condo-For-Sale/ON/Toronto/The-Queensway/25-Viking-Lane-/87363543.html,"$615,000 CAD",2 Beds,2 Baths,--,Condo
+301,"The Keeley Condos - 3100 Keele Street, Toronto, ON, Toronto, Ontario",-79.486012,43.739887,/CA/Home-For-Sale/ON/Toronto/Downsview/The-Keeley-Condos-3100-Keele-Street-Toronto-ON/86019501.html,"$375,994 CAD",--,--,--,Residential
+302,"39 Chiefswood Square, Toronto, Ontario",-79.329182,43.812005,/CA/Home-For-Sale/ON/Toronto/Steeles/39-Chiefswood-Square/73486511.html,"$1,298,800 CAD",4 Beds,5 Baths,--,Residential
+303,"2212 Lake Shore Blwd., Toronto, ONTARIO, Canada, Toronto, Ontario",-79.481699,43.622367,/CA/Home-For-Sale/ON/Toronto/Mimico/2212-Lake-Shore-Blwd-Toronto-ONTARIO-Canada/54434597.html,"$638,888 CAD",1 Bed,1 Bath,--,Residential
+304,"Esther Lorrie Dr Toronto Ontario M9W4V1, Toronto, Ontario",-79.577134,43.732031,/CA/Home-For-Sale/ON/Toronto/Rexdale/Esther-Lorrie-Dr-Toronto-Ontario-M9W4V1/76140112.html,"$479,900 CAD",2 Beds,2 Baths,--,Apartment
+305,"18 Holmes Avenue, Toronto, Ontario",-79.413536,43.778424,/CA/Condo-For-Sale/ON/Toronto/Willowdale/18-Holmes-Avenue/78255437.html,"$474,900 CAD",--,--,--,Condo
+306,"30 Ordnance St Toronto Ontario M6K1A2, Toronto, Ontario",-79.409769,43.639732,/CA/Home-For-Sale/ON/Toronto/Fort-York/30-Ordnance-St-Toronto-Ontario-M6K1A2/86314491.html,"$699,000 CAD",1 Bed,1 Bath,--,Apartment
+307,"Lower River Street, Toronto, Ontario",-79.355343,43.656321,/CA/Condo-For-Sale/ON/Toronto/Downtown-Toronto/Corktown/Lower-River-Street/82258414.html,"$1,375,000 CAD",--,--,--,Condo
+308,"85 East Liberty St, Toronto, Ontario",-79.415396,43.637897,/CA/Home-For-Sale/ON/Toronto/King-West-Village/85-East-Liberty-St/86725164.html,"$695,000 CAD",2 Beds,2 Baths,--,Residential
+309,"14 Glen Gordon Rd, Toronto, Ontario",-79.458782,43.656646,/CA/Home-For-Sale/ON/Toronto/West-End-Toronto/High-Park/14-Glen-Gordon-Rd/77140317.html,"$1,245,000 CAD",4 Beds,2 Baths,--,Residential
+310,"11 Yorkville - 11 Yorkville Avenue, Toronto, ON, Toronto, Ontario",-79.39,43.68,/CA/Home-For-Sale/ON/Toronto/Midtown-Toronto/Rosedale/11-Yorkville-11-Yorkville-Avenue-Toronto-ON/86041617.html,"$663,990 CAD",--,--,--,Residential
+311,"62 Forest Manor Rd, Toronto, Ontario",-79.345246,43.773944,/CA/Condo-For-Sale/ON/Toronto/Henry-Farm/62-Forest-Manor-Rd/81686345.html,"$499,000 CAD",1 Bed,1 Bath,--,Condo
+312,"No address available, Toronto, Ontario",-79.399366,43.638578,/CA/Condo-For-Sale/ON/Toronto/Cityplace/No-address-available/86999864.html,"$549,990 CAD",1 Bed,1 Bath,--,Condo
+313,"88 Parklawn, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/88-Parklawn/74445954.html,"$668,880 CAD",2 Beds,2 Baths,--,Apartment
+314,"104 Bartley Drive, Toronto, Ontario",-79.307937,43.722361,/CA/Other-Sale/ON/Toronto/Victoria-Park-Village/104-Bartley-Drive/82760454.html,"$1,000,000 CAD",--,--,--,Other
+315,"No address available, Toronto, Ontario",-79.46,43.65,/CA/Home-For-Sale/ON/Toronto/West-End-Toronto/High-Park/No-address-available/80093079.html,"$600,000 CAD",--,--,--,Residential
+1764,"472 Sheppard Ave E Toronto Ontario M1S5B3, Toronto, Ontario",-79.253589,43.789494,/CA/Home-For-Sale/ON/Toronto/Agincourt/472-Sheppard-Ave-E-Toronto-Ontario-M1S5B3/78042209.html,"$449,000 CAD",2 Beds,2 Baths,--,Apartment
+317,"8 Sifton Crt, Toronto, Ontario",-79.377211,43.773655,/CA/Home-For-Sale/ON/Toronto/Bayview-Village/8-Sifton-Crt/78096578.html,"$2,888,000 CAD",4 Beds,4 Baths,--,Residential
+318,"88 Colgate Ave, Toronto, Ontario",-79.341096,43.66234,/CA/Condo-For-Sale/ON/Toronto/East-End-Toronto/Riverdale/88-Colgate-Ave/87361772.html,"$688,000 CAD",1 Bed,1 Bath,--,Condo
+1788,"The King's Mill at Backyard Condos - 150 Berry Road, Toronto, ON, Toronto, Ontario",-70.776924,43.969765,/CA/Home-For-Sale/ON/Toronto/The-Kings-Mill-at-Backyard-Condos-150-Berry-Road-Toronto-ON/86020059.html,"$389,990 CAD",--,--,--,Residential
+320,"Bloorlea Cres, Toronto, Ontario",-79.554186,43.638945,/CA/Home-For-Sale/ON/Toronto/Eatonville/Bloorlea-Cres/76414711.html,"$1,385,000 CAD",4 Beds,3 Baths,--,Residential
+321,"55 Ann O'reilly Rd, Toronto, Ontario",-79.32976,43.77452,/CA/Condo-For-Sale/ON/Toronto/Pleasantview/55-Ann-Oreilly-Rd/81377947.html,"$639,000 CAD",2 Beds,2 Baths,--,Condo
+1812,"168 Clonmore Drive, Toronto, Ontario",-79.277246,43.690544,/CA/Condo-For-Sale/ON/Toronto/Birch-Cliff/168-Clonmore-Drive/82381693.html,"$600,000 CAD",--,--,--,Condo
+323,"30 Tippett Road, Toronto, Ontario",-79.448238,43.732994,/CA/Condo-For-Sale/ON/Toronto/Wilson-Heights-Dublin-Heights-Clanton-Park/30-Tippett-Road/81111775.html,"$424,900 CAD",--,--,--,Condo
+324,"64 Cordova Ave, Toronto, Ontario",-79.525609,43.646918,/CA/Condo-For-Sale/ON/Toronto/Islington-Village/64-Cordova-Ave/82258445.html,"$801,000 CAD",--,--,--,Condo
+1836,"3085 Bloor St W, Toronto, Ontario",-79.514918,43.646369,/CA/Condo-For-Sale/ON/Toronto/Sunnylea/3085-Bloor-St-W/72349871.html,"$1,199,000 CAD",2 Beds,2 Baths,--,Condo
+326,"212 Redgrave Dr, Toronto, Ontario",-79.565127,43.67731,/CA/Home-For-Sale/ON/Toronto/Richview/212-Redgrave-Dr/82440673.html,"$899,888 CAD",3 Beds,2 Baths,--,Residential
+327,"Old Kingston Road, Toronto, Ontario",-79.177433,43.780056,/CA/Home-For-Sale/ON/Toronto/West-Hill/Old-Kingston-Road/72816875.html,"$1,949,900 CAD",4 Beds,--,--,Residential
+328,"38 Nookta Cres, Toronto, Ontario",-79.341931,43.798485,/CA/Home-For-Sale/ON/Toronto/Pleasantview/38-Nookta-Cres/81722908.html,"$799,900 CAD",4 Beds,3 Baths,--,Residential
+329,"Saint Clair Avenue West, Toronto, Ontario",-79.446574,43.677418,/CA/Condo-For-Sale/ON/Toronto/Earlscourt/Saint-Clair-Avenue-West/81111901.html,"$428,000 CAD",--,--,--,Condo
+330,"No address available, Toronto, Ontario",-79.478244,43.624949,/CA/Condo-For-Sale/ON/Toronto/Humber-Bay/No-address-available/86006107.html,"$699,000 CAD",2 Beds,2 Baths,--,Condo
+331,"100 Western Battery Road, Toronto, Ontario",-79.415795,43.639626,/CA/Condo-For-Sale/ON/Toronto/King-West-Village/100-Western-Battery-Road/81225176.html,"$499,900 CAD",1 Bed,1 Bath,--,Condo
+332,"223 St Clair Ave W, Toronto, Ontario",-79.404734,43.685682,/CA/Condo-For-Sale/ON/Toronto/South-Hill/223-St-Clair-Ave-W/79810672.html,"$512,990 CAD",1 Bed,1 Bath,--,Condo
+1860,"90 Stadium Road, Toronto, Ontario",-79.40156,43.634825,/CA/Condo-For-Sale/ON/Toronto/Fort-York/90-Stadium-Road/81773072.html,"$929,900 CAD",2 Beds,2 Baths,--,Condo
+1884,"10 Navy Wharf Crt, Toronto, Ontario",-79.391757,43.640323,/CA/Home-For-Sale/ON/Toronto/Cityplace/10-Navy-Wharf-Crt/84081172.html,"$669,900 CAD",--,--,--,Residential
+335,"11 St Joseph St toronto ON, Toronto, Ontario",-79.386093,43.665499,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/11-St-Joseph-St-toronto-ON/86557569.html,"$555,000 CAD",--,1 Bath,599 Sqft,Residential
+336,"234 ALBION RD, Toronto, Ontario",-79.544125,43.721194,/CA/Home-For-Sale/ON/Toronto/The-Elms/234-ALBION-RD/76050101.html,"$349,000 CAD",2 Beds,1 Bath,--,Apartment
+337,"21 Iceboat Terr, Toronto, Ontario",-79.396901,43.640507,/CA/Home-For-Sale/ON/Toronto/Cityplace/21-Iceboat-Terr/84081177.html,"$657,000 CAD",--,--,--,Residential
+338,"Lawrence Avenue West, Toronto, Ontario",-79.467299,43.711058,/CA/Home-For-Sale/ON/Toronto/Downsview/Lawrence-Avenue-West/78702088.html,"$789,900 CAD",--,--,--,Townhouse
+339,"37 Parliment St, Toronto, Ontario",-79.361119,43.649363,/CA/Condo-For-Sale/ON/Toronto/Distillery-District/37-Parliment-St/84388688.html,"$657,900 CAD",1 Bed,1 Bath,--,Condo
+340,"36 Blue Jays Way, Toronto, Ontario",-79.392097,43.644884,/CA/Condo-For-Sale/ON/Toronto/Entertainment-District/36-Blue-Jays-Way/84847105.html,"$715,000 CAD",2 Beds,2 Baths,--,Condo
+341,"3300 Don Mills Rd Toronto Ontario M2J4X7, Toronto, Ontario",-79.355139,43.791525,/CA/Home-For-Sale/ON/Toronto/Don-Valley-Village/3300-Don-Mills-Rd-Toronto-Ontario-M2J4X7/82440696.html,"$539,000 CAD",2 Beds,2 Baths,--,Apartment
+1908,"250 Lawrence Condos - 250 Lawrence Avenue West, Toronto, ON, Toronto, Ontario",-79.413875,43.722936,/CA/Home-For-Sale/ON/Toronto/Bedford-Park/250-Lawrence-Condos-250-Lawrence-Avenue-West-Toronto-ON/86557658.html,"$599,900 CAD",--,--,--,Residential
+343,"78 Harrison Garden Blvd, Toronto, Ontario",-79.407116,43.756057,/CA/Condo-For-Sale/ON/Toronto/Willowdale/78-Harrison-Garden-Blvd/82884098.html,"$976,000 CAD",2 Beds,2 Baths,--,Condo
+344,"9 Day Ave, Toronto, Ontario",-79.446231,43.681202,/CA/Home-For-Sale/ON/Toronto/Earlscourt/9-Day-Ave/76069638.html,"$929,000 CAD",3 Beds,2 Baths,--,Residential
+345,"33 Shore Breeze Dr ``, Toronto, Ontario",-79.479288,43.623517,/CA/Condo-For-Sale/ON/Toronto/Humber-Bay/33-Shore-Breeze-Dr-/86359034.html,"$489,000 CAD",1 Bed,1 Bath,--,Condo
+346,"home (Power + Adelaide) - 48 Power Street, Toronto, ON, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/home-Power-Adelaide-48-Power-Street-Toronto-ON/86041686.html,"$525,900 CAD",--,--,--,Residential
+347,"Richmond St W, Toronto, Ontario",-79.395287,43.648119,/CA/Condo-For-Sale/ON/Toronto/Entertainment-District/Richmond-St-W/82759097.html,"$3,559,990 CAD",--,--,--,Condo
+348,"295 Adelaide St W, Toronto, Ontario",-79.39076,43.647603,/CA/Condo-For-Sale/ON/Toronto/Entertainment-District/295-Adelaide-St-W/85186796.html,"$648,800 CAD",1 Bed,1 Bath,--,Condo
+349,"50 Humberwood Boulevard, Toronto, Ontario",-79.611972,43.721427,/CA/Other-Sale/ON/Toronto/West-Humber-Clairville/50-Humberwood-Boulevard/82258629.html,"$659,990 CAD",--,--,--,Other
+350,"38 Grand Magazine St, Toronto, Ontario",-79.40298,43.637279,/CA/Condo-For-Sale/ON/Toronto/Fort-York/38-Grand-Magazine-St/86152673.html,"$749,900 CAD",2 Beds,1 Bath,--,Condo
+351,"10 Eddystone Ave, Toronto, Ontario",-79.51714,43.749505,/CA/Home-For-Sale/ON/Toronto/Jane-and-Finch/10-Eddystone-Ave/87238077.html,"$259,000 CAD",3 Beds,2 Baths,--,Residential
+1932,"50 Scollard Street, Toronto, Ontario",-79.390037,43.672424,/CA/Condo-For-Sale/ON/Toronto/Yorkville/50-Scollard-Street/82760269.html,"$1,199,900 CAD",--,--,--,Condo
+353,"11 Yorkville Avenue, Toronto, Ontario",-79.38825,43.671602,/CA/Condo-For-Sale/ON/Toronto/Yorkville/11-Yorkville-Avenue/82330953.html,"$667,990 CAD",--,--,--,Condo
+354,"235 Sherway Gardens Rd, Toronto, Ontario",-79.55872,43.609416,/CA/Condo-For-Sale/ON/Toronto/The-Queensway/235-Sherway-Gardens-Rd/87145412.html,"$524,999 CAD",1 Bed,1 Bath,--,Condo
+1956,"The Borough Condos - Tower B - 2180 Lawrence Avenue East, Toronto, ON, Toronto, Ontario",-79.3151,43.6654,/CA/Home-For-Sale/ON/Toronto/The-Beach/The-Borough-Condos-Tower-B-2180-Lawrence-Avenue-East-Toronto-ON/86019628.html,"$251,990 CAD",--,--,--,Residential
+356,"No 55 Mercer Condos, Toronto, Ontario",-79.391724,43.645299,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/No-55-Mercer-Condos/85825900.html,"$600,000 CAD",--,--,--,Residential
+357,"844 Don Mills Road, Toronto, Ontario",-79.341673,43.722647,/CA/Condo-For-Sale/ON/Toronto/Thorncliffe-Park/844-Don-Mills-Road/82381796.html,"$609,990 CAD",--,--,--,Condo
+358,"130A Finch Ave W, Toronto, Ontario",-79.426563,43.777569,/CA/Home-For-Sale/ON/Toronto/Newtonbrook/130A-Finch-Ave-W/85241862.html,"$899,000 CAD",3 Beds,3 Baths,--,Residential
+359,"No address available, Toronto, Ontario",-79.397807,43.640311,/CA/Condo-For-Sale/ON/Toronto/Cityplace/No-address-available/85973963.html,"$650,000 CAD",1 Bed,1 Bath,--,Condo
+360,"The Saint - 89 Church Street, Toronto, ON, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/The-Saint-89-Church-Street-Toronto-ON/86041639.html,"$504,900 CAD",--,--,--,Residential
+361,"Riverview - Birchmount Road, Markham, ON, Toronto, Ontario",-79.293785,43.770966,/CA/Home-For-Sale/ON/Toronto/Scarborough/Dorset-Park/Riverview-Birchmount-Road-Markham-ON/86569710.html,"$705,400 CAD",--,--,--,Residential
+362,"No address available, Toronto, Ontario",-79.159488,43.793125,/CA/Home-For-Sale/ON/Toronto/Highland-Creek/No-address-available/81738373.html,"$900,000 CAD",--,--,--,Residential
+363,"UOVO Boutique Residences, Toronto, Ontario",-79.397907,43.702967,/CA/Condo-For-Sale/ON/Toronto/Chaplin-Estates/UOVO-Boutique-Residences/57399075.html,"$639,900 CAD",--,--,--,Condo
+364,"252 Staines Rd, Toronto, Ontario",-79.222879,43.82787,/CA/Home-For-Sale/ON/Toronto/Morningside-Heights/252-Staines-Rd/80754010.html,"$1,299,000 CAD",4 Beds,5 Baths,--,Residential
+365,"51 East Liberty St, Toronto, Ontario",-79.412811,43.638563,/CA/Condo-For-Sale/ON/Toronto/King-West-Village/51-East-Liberty-St/85742054.html,"$579,900 CAD",1 Bed,1 Bath,--,Condo
+366,"840 Saint Clair Avenue West, Toronto, Ontario",-79.431839,43.680638,/CA/Condo-For-Sale/ON/Toronto/Oakwood-Vaughan/840-Saint-Clair-Avenue-West/82258526.html,"$639,900 CAD",--,--,--,Condo
+1980,"1823 Davenport Rd, Toronto, Ontario",-79.452407,43.670649,/CA/Home-For-Sale/ON/Toronto/Carleton-Village/1823-Davenport-Rd/76265129.html,"$1,299,000 CAD",6 Beds,4 Baths,--,Townhouse
+2004,"21 Iceboat Terr, Toronto, Ontario",-79.396901,43.640507,/CA/Condo-For-Sale/ON/Toronto/Cityplace/21-Iceboat-Terr/82619342.html,"$759,000 CAD",2 Beds,2 Baths,--,Condo
+369,"169 Fort York Blvd, Toronto, Ontario",-79.401064,43.638387,/CA/Condo-For-Sale/ON/Toronto/Fort-York/169-Fort-York-Blvd/83619791.html,"$475,000 CAD",--,1 Bath,--,Condo
+370,"38 Grand Magazine St, Toronto, Ontario",-79.40298,43.637279,/CA/Condo-For-Sale/ON/Toronto/Fort-York/38-Grand-Magazine-St/86053978.html,"$749,900 CAD",2 Beds,1 Bath,--,Condo
+2028,"Tricycle Condominiums - 1151 Markham Road, Toronto, ON, Toronto, Ontario",-79.231107,43.776168,/CA/Home-For-Sale/ON/Toronto/Curran-Hall/Tricycle-Condominiums-1151-Markham-Road-Toronto-ON/86041664.html,"$623,990 CAD",--,--,--,Residential
+2052,"339 Rathburn Rd, Toronto, Ontario",-79.559131,43.655863,/CA/Condo-For-Sale/ON/Toronto/Eatonville/339-Rathburn-Rd/83141646.html,"$599,900 CAD",2 Beds,2 Baths,--,Condo
+2076,"60 Berwick Ave, Toronto, Ontario",-79.39985,43.704006,/CA/Condo-For-Sale/ON/Toronto/Chaplin-Estates/60-Berwick-Ave/74898612.html,"$579,800 CAD",1 Bed,1 Bath,--,Condo
+374,"609 Avenue Road Condos - 609 Avenue Rd, Toronto, ON, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/609-Avenue-Road-Condos-609-Avenue-Rd-Toronto-ON/86041749.html,"$1,769,900 CAD",--,--,--,Residential
+375,"200 Cumberland Street, Toronto, Ontario",-79.394244,43.669867,/CA/Condo-For-Sale/ON/Toronto/Yorkville/200-Cumberland-Street/82759324.html,"$1,685,000 CAD",--,--,--,Condo
+376,"1200 Dundas St W, Toronto, Ontario",-79.422523,43.649805,/CA/Condo-For-Sale/ON/Toronto/Trinity-Bellwoods/1200-Dundas-St-W/80343330.html,"$500,000 CAD",--,--,--,Condo
+2100,"5915 Yonge Street/Toronto, Toronto, Ontario",-79.416891,43.786879,/CA/Condo-For-Sale/ON/Toronto/Newtonbrook/5915-Yonge-StreetToronto/73660921.html,"$533,900 CAD",--,--,--,Condo
+2124,"116 Micmac Cres, Toronto, Ontario",-79.340537,43.795646,/CA/Home-For-Sale/ON/Toronto/Pleasantview/116-Micmac-Cres/82062264.html,"$979,900 CAD",4 Beds,4 Baths,--,Residential
+379,"Pier 27 Condos - 25 Queens Quay E, Toronto, ON, Toronto, Ontario",-79.372892,43.641908,/CA/Home-For-Sale/ON/Toronto/Downtown-Toronto/St-Lawrence/Pier-27-Condos-25-Queens-Quay-E-Toronto-ON/86041642.html,"$2,469,000 CAD",--,--,--,Residential
+380,"1221 King Street West, Toronto, Ontario",-79.427665,43.638585,/CA/Condo-For-Sale/ON/Toronto/Parkdale/1221-King-Street-West/82258426.html,"$624,900 CAD",--,--,--,Condo
+381,"300 Front St W, Toronto, Ontario",-79.389439,43.644062,/CA/Condo-For-Sale/ON/Toronto/Entertainment-District/300-Front-St-W/82405860.html,"$1,219,900 CAD",2 Beds,2 Baths,--,Condo
+382,"100 Harbour St toronto, Toronto, Ontario",-79.379316,43.641709,/CA/Home-For-Sale/ON/Toronto/Harbourfront/100-Harbour-St-toronto/84180528.html,"$688,000 CAD",--,--,--,Residential
+2148,"81 Mutual Street, Toronto, Ontario",-79.375236,43.656391,/CA/Condo-For-Sale/ON/Toronto/Garden-District/81-Mutual-Street/82258568.html,"$626,990 CAD",--,--,--,Condo
+384,"One Forest Hill - 1 Forest Hill Road, Toronto, ON, Toronto, Ontario",-79.41,43.69,/CA/Home-For-Sale/ON/Toronto/Midtown-Toronto/Forest-Hill/One-Forest-Hill-1-Forest-Hill-Road-Toronto-ON/86041675.html,"$1,900,000 CAD",--,--,--,Residential
+2172,"15 Merchants' Wharf, Toronto, Ontario",-79.36433,43.64496,/CA/Condo-For-Sale/ON/Toronto/Downtown-Toronto/St-Lawrence/15-Merchants-Wharf/85604939.html,"$579,000 CAD",1 Bed,1 Bath,--,Condo
+386,"355 King St W, Toronto, Ontario",-79.391945,43.645966,/CA/Condo-For-Sale/ON/Toronto/Entertainment-District/355-King-St-W/86762045.html,"$760,000 CAD",1 Bed,1 Bath,--,Condo
+387,"No address available, Toronto, Ontario",-79.392211,43.681257,/CA/Condo-For-Sale/ON/Toronto/Summerhill/No-address-available/83956263.html,"$3,000,000 CAD",--,--,--,Condo
+388,"650 Queens Quay W, Toronto, Ontario",-79.398842,43.63571,/CA/Home-For-Sale/ON/Toronto/Fort-York/650-Queens-Quay-W/84081165.html,"$800,000 CAD",--,--,--,Residential
+389,"2 Gibbs Road, Toronto, Ontario",-79.558157,43.638359,/CA/Condo-For-Sale/ON/Toronto/Eatonville/2-Gibbs-Road/82381803.html,"$433,000 CAD",--,--,--,Condo
+390,"21 Olive Ave Toronto Ontario M2N4N4, Toronto, Ontario",-79.41374,43.778832,/CA/Home-For-Sale/ON/Toronto/Willowdale/21-Olive-Ave-Toronto-Ontario-M2N4N4/82062973.html,"$699,999 CAD",--,--,--,Residential
+391,"9 Spadina Ave, Toronto, Ontario",-79.392462,43.640149,/CA/Condo-For-Sale/ON/Toronto/Cityplace/9-Spadina-Ave/87206481.html,"$599,800 CAD",1 Bed,--,--,Condo
+2196,"263 Wellington St W toronto, Toronto, Ontario",-79.390883,43.644667,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/263-Wellington-St-W-toronto/84215864.html,"$699,900 CAD",--,--,--,Residential
+393,"720 Spadina Ave, Toronto, Ontario",-79.403621,43.665291,/CA/Condo-For-Sale/ON/Toronto/Harbord-Village/720-Spadina-Ave/82916274.html,"$299,800 CAD",--,1 Bath,--,Condo
+394,"Greenwich Village Towns - 847 Sheppard Avenue West, Toronto, ON, Toronto, Ontario",-79.46,43.65,/CA/Home-For-Sale/ON/Toronto/West-End-Toronto/High-Park/Greenwich-Village-Towns-847-Sheppard-Avenue-West-Toronto-ON/86570976.html,"$700,000 CAD",--,--,--,Residential
+2220,"21 Iceboat Terr, Toronto, Ontario",-79.396901,43.640507,/CA/Home-For-Sale/ON/Toronto/Cityplace/21-Iceboat-Terr/84081168.html,"$749,000 CAD",--,--,--,Residential
+396,"15 Iceboat Terr, Toronto, Ontario",-79.397807,43.640311,/CA/Condo-For-Sale/ON/Toronto/Cityplace/15-Iceboat-Terr/87145414.html,"$499,900 CAD",1 Bed,1 Bath,--,Condo
+397,"10 Kenneth Ave, Toronto, Ontario",-79.405878,43.764029,/CA/Condo-For-Sale/ON/Toronto/Willowdale/10-Kenneth-Ave/81377956.html,"$700,000 CAD",2 Beds,2 Baths,--,Condo
+398,"209 Fort York Blvd, Toronto, Ontario",-79.404733,43.637167,/CA/Condo-For-Sale/ON/Toronto/Fort-York/209-Fort-York-Blvd/79762944.html,"$839,900 CAD",2 Beds,2 Baths,--,Condo
+399,"17 Bathurst St, Toronto, Ontario",-79.39949,43.637411,/CA/Condo-For-Sale/ON/Toronto/Harbourfront/17-Bathurst-St/87329140.html,"$554,900 CAD",1 Bed,1 Bath,--,Condo
+400,"28 Douro St, Toronto, Ontario",-79.412944,43.640753,/CA/Condo-For-Sale/ON/Toronto/King-West-Village/28-Douro-St/82918670.html,"$699,999 CAD",--,--,--,Condo
+401,"165 Cherokee Blvd, Toronto, Ontario",-79.335772,43.792439,/CA/Condo-For-Sale/ON/Toronto/Pleasantview/165-Cherokee-Blvd/84388594.html,"$499,000 CAD",4 Beds,2 Baths,--,Condo
+2244,"30 Sunrise Ave, Toronto, Ontario",-79.302763,43.719849,/CA/Condo-For-Sale/ON/Toronto/Clairlea/30-Sunrise-Ave/75978309.html,"$479,900 CAD",4 Beds,2 Baths,--,Condo
+403,"88 Blue Jays Way `, Toronto, Ontario",-79.392318,43.645475,/CA/Condo-For-Sale/ON/Toronto/Entertainment-District/88-Blue-Jays-Way-/86006017.html,"$699,900 CAD",1 Bed,1 Bath,--,Condo
+404,"Lakeside Residences - 215 Lake Shore Boulevard East, Toronto, ON, Toronto, Ontario",-79.3151,43.6654,/CA/Home-For-Sale/ON/Toronto/The-Beach/Lakeside-Residences-215-Lake-Shore-Boulevard-East-Toronto-ON/86041580.html,"$650,990 CAD",--,--,--,Residential
+405,"1682 Victoria Park Avenue, Toronto, Ontario",-79.306129,43.732403,/CA/Other-Sale/ON/Toronto/Victoria-Park-Village/1682-Victoria-Park-Avenue/82258406.html,"$741,990 CAD",--,--,--,Other
+406,"No address available, Toronto, Ontario",-79.416262,43.640994,/CA/Condo-For-Sale/ON/Toronto/King-West-Village/No-address-available/86680387.html,"$599,900 CAD",1 Bed,1 Bath,--,Condo
+407,"199 Richmond St W toronto, Toronto, Ontario",-79.388412,43.649426,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/199-Richmond-St-W-toronto/84135439.html,"$699,900 CAD",--,--,--,Residential
+408,"No address available, Toronto, Ontario",-79.22995,43.774889,/CA/Condo-For-Sale/ON/Toronto/Curran-Hall/No-address-available/81813339.html,"$629,900 CAD",2 Beds,--,864 Sqft,Condo
+409,"103 The Queensway Ave, Toronto, Ontario",-79.470213,43.636305,/CA/Condo-For-Sale/ON/Toronto/Swansea/103-The-Queensway-Ave/86725997.html,"$599,000 CAD",1 Bed,1 Bath,--,Condo
+410,"10 Bradworthy Crt, Toronto, Ontario",-79.202564,43.802746,/CA/Home-For-Sale/ON/Toronto/Malvern/10-Bradworthy-Crt/78483578.html,"$585,000 CAD",4 Beds,2 Baths,--,Residential
+411,"1240 Avenue Road, Toronto, Ontario",-79.412076,43.713755,/CA/Other-Sale/ON/Toronto/Lytton-Park/1240-Avenue-Road/82759150.html,"$2,395,000 CAD",--,--,--,Other
+412,"250 Wellington St W, Toronto, Ontario",-79.390868,43.645072,/CA/Condo-For-Sale/ON/Toronto/Entertainment-District/250-Wellington-St-W/87145406.html,"$499,000 CAD",1 Bed,1 Bath,--,Condo
+413,"WaterWorks Toronto - 505 Richmond Street West, Toronto, ON, Toronto, Ontario",-79.399598,43.647126,/CA/Home-For-Sale/ON/Toronto/Fashion-District/WaterWorks-Toronto-505-Richmond-Street-West-Toronto-ON/86041641.html,"$635,000 CAD",--,--,--,Residential
+414,"Guildwood Condomimiums - 3655 Kingston Road, Toronto, ON, Toronto, Ontario",-79.1966,43.7434,/CA/Home-For-Sale/ON/Toronto/Guildwood/Guildwood-Condomimiums-3655-Kingston-Road-Toronto-ON/86041694.html,"$327,900 CAD",--,--,--,Residential
+415,"916 Scarborough Golf Clu Rd, Toronto, Ontario",-79.220805,43.774179,/CA/Home-For-Sale/ON/Toronto/Curran-Hall/916-Scarborough-Golf-Clu-Rd/83956221.html,"$849,900 CAD",3 Beds,3 Baths,--,Residential
+2268,"121 Mcmahon Dr, Toronto, Ontario",-79.370623,43.767726,/CA/Condo-For-Sale/ON/Toronto/Bayview-Village/121-Mcmahon-Dr/79084368.html,"$675,000 CAD",2 Beds,2 Baths,--,Condo
+417,"8833 Sheppard Avenue East, Toronto, Ontario",-79.183677,43.805381,/CA/Condo-For-Sale/ON/Toronto/Rouge-Hill/8833-Sheppard-Avenue-East/72298508.html,"$534,990 CAD",--,--,--,Condo
+418,"9 Spadina Ave, Toronto, Ontario",-79.392462,43.640149,/CA/Condo-For-Sale/ON/Toronto/Cityplace/9-Spadina-Ave/87361752.html,"$599,800 CAD",1 Bed,1 Bath,--,Condo
+419,"303 Gilmour Ave, Toronto, Ontario",-79.478953,43.665515,/CA/Home-For-Sale/ON/Toronto/The-Junction/303-Gilmour-Ave/73911804.html,"$999,995 CAD",3 Beds,3 Baths,--,Townhouse
+420,"Pearl Place Condos - 19 Hollywood Ave, Toronto, ON, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/Pearl-Place-Condos-19-Hollywood-Ave-Toronto-ON/86041647.html,"$579,900 CAD",--,--,--,Residential
+2292,"123 Woodbine Ave, Toronto, Ontario",-79.304871,43.667569,/CA/Home-For-Sale/ON/Toronto/The-Beach/123-Woodbine-Ave/86760571.html,"$399,900 CAD",--,1 Bath,--,Residential
+422,"BT Towns Bayview Village - 12 Dervock Crescent, Toronto, ON, Toronto, Ontario",-79.381199,43.767157,/CA/Home-For-Sale/ON/Toronto/Bayview-Village/BT-Towns-Bayview-Village-12-Dervock-Crescent-Toronto-ON/86571460.html,"$750,000 CAD",--,--,--,Residential
+423,"8 Scollard St, Toronto, Ontario",-79.388732,43.672651,/CA/Home-For-Sale/ON/Toronto/Yorkville/8-Scollard-St/85972731.html,"$499,900 CAD",--,1 Bath,499 Sqft,Residential
+424,"Nordic Condos - 500 Wilson Avenue, Toronto, ON, Toronto, Ontario",-79.434095,43.737309,/CA/Home-For-Sale/ON/Toronto/Wilson-Heights-Dublin-Heights-Clanton-Park/Nordic-Condos-500-Wilson-Avenue-Toronto-ON/86041625.html,"$400,000 CAD",--,--,--,Residential
+425,"231 Fort York Blvd, Toronto, Ontario",-79.406079,43.636979,/CA/Condo-For-Sale/ON/Toronto/Fort-York/231-Fort-York-Blvd/86681974.html,"$695,000 CAD",2 Beds,2 Baths,--,Condo
+426,"4001 Don Mills Rd, Toronto, Ontario",-79.358997,43.809938,/CA/Home-For-Sale/ON/Toronto/Hillcrest-Village/4001-Don-Mills-Rd/82062259.html,"$579,888 CAD",3 Beds,2 Baths,--,Residential
+427,"Aqualuna - Merchants' Wharf, Toronto, ON, Toronto, Ontario",-79.36287,43.644751,/CA/Home-For-Sale/ON/Toronto/Downtown-Toronto/St-Lawrence/Aqualuna-Merchants-Wharf-Toronto-ON/86041576.html,"$1,815,000 CAD",--,--,--,Residential
+428,"JAC Condos - Jarvis & Carlton Toronto, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/JAC-Condos-Jarvis-Carlton-Toronto/86767719.html,"$498,972 CAD",--,--,350 Sqft,Apartment
+429,"170 Fort York Blvd, Toronto, Ontario",-79.399786,43.639394,/CA/Condo-For-Sale/ON/Toronto/Cityplace/170-Fort-York-Blvd/86609201.html,"$599,990 CAD",1 Bed,1 Bath,--,Condo
+430,"The Vic Towns - 1682 Victoria Park Avenue, Toronto, ON, Toronto, Ontario",-79.306129,43.732403,/CA/Home-For-Sale/ON/Toronto/Victoria-Park-Village/The-Vic-Towns-1682-Victoria-Park-Avenue-Toronto-ON/86041693.html,"$741,990 CAD",--,--,--,Residential
+431,"2201 Kingston Road, Toronto, Ontario",-79.25284,43.703133,/CA/Condo-For-Sale/ON/Toronto/Cliffside/2201-Kingston-Road/72872510.html,"$350,900 CAD",--,--,--,Condo
+432,"10 Audley St, Toronto, Ontario",-79.49418,43.61978,/CA/Condo-For-Sale/ON/Toronto/Mimico/10-Audley-St/84882437.html,"$500,000 CAD",--,--,--,Condo
+433,"9 Amethyst Rd, Toronto, Ontario",-79.299379,43.778984,/CA/Home-For-Sale/ON/Toronto/Tam-O-Shanter-Sullivan/9-Amethyst-Rd/87129420.html,"$899,000 CAD",3 Beds,2 Baths,--,Residential
+434,"45 Elphick Lane Toronto Ontario M9N4A2, Toronto, Ontario",-79.526034,43.704403,/CA/Home-For-Sale/ON/Toronto/Weston/45-Elphick-Lane-Toronto-Ontario-M9N4A2/81447230.html,"$599,999 CAD",3 Beds,2 Baths,--,Residential
+435,"89 Church St, Toronto, Ontario",-79.375018,43.652084,/CA/Home-For-Sale/ON/Toronto/Old-Town/89-Church-St/82154272.html,"$399,988 CAD",--,--,--,Apartment
+436,"31 Parliment st, Toronto, Ontario",-79.361241,43.648904,/CA/Condo-For-Sale/ON/Toronto/Distillery-District/31-Parliment-st/84388605.html,"$605,900 CAD",1 Bed,1 Bath,--,Condo
+437,"16 Bradbrook Rd, Toronto, Ontario",-79.517472,43.625292,/CA/Home-For-Sale/ON/Toronto/The-Queensway/16-Bradbrook-Rd/74449623.html,"$720,000 CAD",3 Beds,2 Baths,--,Residential
+438,"2121 Lake Shore, Toronto, Ontario",-79.3849,43.6529,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/2121-Lake-Shore/80145395.html,"$699,900 CAD",2 Beds,2 Baths,--,Condo
+439,"1369 Bloor Street West, Toronto, Ontario",-79.445671,43.657477,/CA/Condo-For-Sale/ON/Toronto/Junction-Triangle/1369-Bloor-Street-West/85504817.html,"$499,900 CAD",1 Bed,1 Bath,--,Condo
+2316,"120 Harbour St, Toronto, Ontario",-79.381085,43.641099,/CA/Condo-For-Sale/ON/Toronto/Harbourfront/120-Harbour-St/82759237.html,"$2,000,000 CAD",--,--,--,Condo
+441,"226 Kingslake Rd, Toronto, Ontario",-79.346627,43.791676,/CA/Home-For-Sale/ON/Toronto/Don-Valley-Village/226-Kingslake-Rd/84388590.html,"$1,480,000 CAD",5 Beds,5 Baths,--,Residential
+2340,"40 Ellins Ave, Toronto, Ontario",-79.497044,43.672197,/CA/Home-For-Sale/ON/Toronto/Lambton/40-Ellins-Ave/82102904.html,"$1,349,990 CAD",3 Beds,4 Baths,--,Residential
+443,"No address available, Toronto, Ontario",-79.521954,43.620976,/CA/Condo-For-Sale/ON/Toronto/The-Queensway/No-address-available/84406787.html,"$411,900 CAD",--,--,--,Condo
+444,"57 Brock Condos - 57 Brock Avenue, Toronto, ON, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/57-Brock-Condos-57-Brock-Avenue-Toronto-ON/86041605.html,"$592,900 CAD",--,--,--,Residential
+2364,"57 St.Joseph Street Toronto Ontario, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/57-StJoseph-Street-Toronto-Ontario/85868122.html,"$495,000 CAD",--,1 Bath,499 Sqft,Residential
+446,"26 Pelmar Pl, Toronto, Ontario",-79.216446,43.756774,/CA/Home-For-Sale/ON/Toronto/Woburn/26-Pelmar-Pl/76651575.html,"$699,900 CAD",3 Beds,2 Baths,--,Residential
+447,"18 Harbor St, Toronto, Ontario",-79.3849,43.6529,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/18-Harbor-St/74149789.html,"$879,900 CAD",2 Beds,2 Baths,--,Condo
+2388,"Yorkwoods Condos - 2839 Jane Street, Toronto, ON, Toronto, Ontario",-79.51558,43.751284,/CA/Home-For-Sale/ON/Toronto/Jane-and-Finch/Yorkwoods-Condos-2839-Jane-Street-Toronto-ON/86019979.html,"$300,000 CAD",--,--,--,Residential
+449,"281 Avenue Road, Toronto, Ontario",-79.39802,43.678885,/CA/Condo-For-Sale/ON/Toronto/Summerhill/281-Avenue-Road/75668927.html,"$2,240,000 CAD",--,--,--,Condo
+2412,"Water's Edge at The Cove - 2163 Lake Shore Boulevard West, Toronto, ON, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/Waters-Edge-at-The-Cove-2163-Lake-Shore-Boulevard-West-Toronto-ON/86041655.html,"$524,900 CAD",--,--,--,Residential
+451,"54 Leila Jackson Terrace, Toronto, Ontario",-79.522265,43.729889,/CA/Home-For-Sale/ON/Toronto/Downsview/54-Leila-Jackson-Terrace/81494911.html,"$949,000 CAD",4 Beds,3 Baths,--,Residential
+452,"1182 King St W, Toronto, Ontario",-79.426812,43.639285,/CA/Condo-For-Sale/ON/Toronto/Liberty-Village/1182-King-St-W/73434583.html,"$430,000 CAD",--,--,--,Condo
+453,"No address available, Toronto, Ontario",-79.415993,43.64163,/CA/Condo-For-Sale/ON/Toronto/King-West-Village/No-address-available/87206718.html,"$598,000 CAD",1 Bed,1 Bath,--,Condo
+454,"The Perry Condos = 128 Pears Avenue, Toronto, ON, Toronto, Ontario",-79.397877,43.675602,/CA/Home-For-Sale/ON/Toronto/The-Annex/The-Perry-Condos-128-Pears-Avenue-Toronto-ON/86041622.html,"$889,000 CAD",--,--,--,Residential
+455,"110 Broadway Ave, Toronto, Toronto, Ontario",-79.3932,43.710969,/CA/Condo-For-Sale/ON/Toronto/Sherwood-Park/110-Broadway-Ave-Toronto/85744605.html,"$450,000 CAD",--,--,--,Condo
+456,"410 Mclevin Ave, Toronto, Ontario",-79.221126,43.810167,/CA/Home-For-Sale/ON/Toronto/Malvern/410-Mclevin-Ave/78483613.html,"$419,900 CAD",2 Beds,2 Baths,--,Residential
+457,"Pinnacle Toronto East - 3260 Sheppard Avenue East, Toronto, ON, Toronto, Ontario",-79.311139,43.778681,/CA/Home-For-Sale/ON/Toronto/Tam-O-Shanter-Sullivan/Pinnacle-Toronto-East-3260-Sheppard-Avenue-East-Toronto-ON/86041602.html,"$449,900 CAD",--,--,--,Residential
+458,"1131 Bloor St W, Toronto, Ontario",-79.413319,43.664679,/CA/Condo-For-Sale/ON/Toronto/Seaton-Village/1131-Bloor-St-W/84882679.html,"$399,900 CAD",--,--,--,Condo
+459,"92 King St. E, Toronto, Ontario",-79.37495,43.650055,/CA/Condo-For-Sale/ON/Toronto/Old-Town/92-King-St-E/85914510.html,"$599,888 CAD",2 Beds,1 Bath,--,Condo
+460,"3 Southvale Drive, Toronto, Ontario",-79.361547,43.702047,/CA/Condo-For-Sale/ON/Toronto/Leaside/3-Southvale-Drive/82760438.html,"$1,063,000 CAD",--,--,--,Condo
+461,"200 Manitoba St, Toronto, Ontario",-79.490973,43.624327,/CA/Condo-For-Sale/ON/Toronto/Mimico/200-Manitoba-St/87145423.html,"$539,000 CAD",1 Bed,2 Baths,--,Condo
+2436,"8 Haus Boutique Condos - 2433 Dufferin Street, Toronto, ON, Toronto, Ontario",-79.450912,43.699124,/CA/Home-For-Sale/ON/Toronto/Fairbank/8-Haus-Boutique-Condos-2433-Dufferin-Street-Toronto-ON/86019745.html,"$300,000 CAD",--,--,--,Residential
+2460,"770 Bay St, Toronto, Ontario",-79.385869,43.660137,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/770-Bay-St/83619807.html,"$899,000 CAD",2 Beds,2 Baths,--,Condo
+464,"1762 KEELE STREET, Toronto, Ontario",-79.473725,43.686712,/CA/Home-For-Sale/ON/Toronto/Silverthorn/1762-KEELE-STREET/32395448.html,"$749,000 CAD",--,--,1668 Sqft,Apartment
+2484,"511 Kingston Road, Toronto, Ontario",-79.302061,43.677539,/CA/Condo-For-Sale/ON/Toronto/The-Beach/511-Kingston-Road/82258453.html,"$732,875 CAD",--,--,--,Condo
+466,"7 Grenville St, Toronto, Ontario",-79.38363,43.661762,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/7-Grenville-St/84618292.html,"$949,999 CAD",2 Beds,2 Baths,--,Condo
+467,"No address available, Toronto, Ontario",-79.178578,43.766777,/CA/Home-For-Sale/ON/Toronto/West-Hill/No-address-available/81722899.html,"$1,275,000 CAD",--,--,--,Residential
+468,"35 Sealstone Terr, Toronto, Ontario",-79.217567,43.791067,/CA/Home-For-Sale/ON/Toronto/Seven-Oaks-Morningside/35-Sealstone-Terr/74803339.html,"$869,000 CAD",3 Beds,3 Baths,--,Residential
+469,"123 Woodbine Ave `, Toronto, Ontario",-79.304871,43.667569,/CA/Condo-For-Sale/ON/Toronto/The-Beach/123-Woodbine-Ave-/87313102.html,"$399,999 CAD",--,1 Bath,--,Condo
+470,"28 Wandering Tr, Toronto, Ontario",-79.207723,43.822337,/CA/Home-For-Sale/ON/Toronto/Morningside-Heights/28-Wandering-Tr/87000758.html,"$999,999 CAD",4 Beds,5 Baths,--,Residential
+2508,"20 Minowan Miikan Lane, Toronto, Ontario",-79.428134,43.643063,/CA/Condo-For-Sale/ON/Toronto/Beaconsfield-Village/20-Minowan-Miikan-Lane/81772766.html,"$629,000 CAD",2 Beds,1 Bath,--,Condo
+472,"15 Garden Pl, Toronto, Ontario",-79.540994,43.588964,/CA/Home-For-Sale/ON/Toronto/Long-Branch/15-Garden-Pl/86271207.html,"$799,900 CAD",2 Beds,1 Bath,--,Residential
+473,"55 Bremner Blvd, Toronto, Ontario",-79.380503,43.642945,/CA/Condo-For-Sale/ON/Toronto/Financial-District/55-Bremner-Blvd/84847110.html,"$749,900 CAD",1 Bed,1 Bath,--,Condo
+474,"Junction House - 2720 Dundas Street West, Toronto, ON, Toronto, Ontario",-79.459697,43.665088,/CA/Home-For-Sale/ON/Toronto/The-Junction/Junction-House-2720-Dundas-Street-West-Toronto-ON/86041671.html,"$628,800 CAD",--,--,--,Residential
+475,"17 Zorra St 2109, Toronto, Ontario",-79.5219064,43.6209958,/CA/Condo-For-Sale/ON/Toronto/The-Queensway/17-Zorra-St/87303829.html,"$449,800 CAD",1 Bed,1 Bath,--,Condo
+476,"847 Sheppard Avenue West, Toronto, Ontario",-79.452416,43.752384,/CA/Other-Sale/ON/Toronto/Wilson-Heights-Dublin-Heights-Clanton-Park/847-Sheppard-Avenue-West/82381784.html,"$459,900 CAD",--,--,--,Other
+477,"887 Bay St, Toronto, Ontario",-79.386307,43.66295,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/887-Bay-St/81772761.html,"$634,900 CAD",1 Bed,1 Bath,--,Condo
+478,"Monde Condos - 12 Bonnycastle Street, Toronto, ON, Toronto, Ontario",-79.365136,43.646099,/CA/Home-For-Sale/ON/Toronto/Downtown-Toronto/St-Lawrence/Monde-Condos-12-Bonnycastle-Street-Toronto-ON/86041648.html,"$1,228,990 CAD",--,--,--,Residential
+479,"88 Harbour St, Toronto, Ontario",-79.379699,43.641755,/CA/Condo-For-Sale/ON/Toronto/Harbourfront/88-Harbour-St/86361036.html,"$718,000 CAD",1 Bed,1 Bath,--,Condo
+480,"444 Front Street W, Toronto, Ontario",-79.396204,43.64235,/CA/Condo-For-Sale/ON/Toronto/Fashion-District/444-Front-Street-W/83410996.html,"$832,500 CAD",--,--,--,Condo
+2532,"St. Clair Village Condos - 900 St. Clair Avenue West, Toronto, ON, Toronto, Ontario",-79.43353,43.680339,/CA/Home-For-Sale/ON/Toronto/Oakwood-Vaughan/St-Clair-Village-Condos-900-St-Clair-Avenue-West-Toronto-ON/86041746.html,"$479,900 CAD",--,--,--,Residential
+482,"35 Hayden St, Toronto, Ontario",-79.384657,43.669558,/CA/Condo-For-Sale/ON/Toronto/Church-and-Wellesley/35-Hayden-St/83350595.html,"$692,000 CAD",1 Bed,1 Bath,--,Condo
+2556,"188 Doris Ave, Toronto, Ontario",-79.410238,43.767503,/CA/Condo-For-Sale/ON/Toronto/Willowdale/188-Doris-Ave/72642276.html,"$529,900 CAD",1 Bed,1 Bath,--,Condo
+484,"164 St Clair Ave E, Toronto, Ontario",-79.38665,43.6899,/CA/Home-For-Sale/ON/Toronto/Moore-Park/164-St-Clair-Ave-E/83240175.html,"$2,299,900 CAD",5 Beds,5 Baths,--,Residential
+485,"73 Joseph Griffith Lane Toronto Ontario M3L0C9, Toronto, Ontario",-79.522396,43.726546,/CA/Home-For-Sale/ON/Toronto/Downsview/73-Joseph-Griffith-Lane-Toronto-Ontario-M3L0C9/81440623.html,"$699,900 CAD",3 Beds,4 Baths,--,Residential
+486,"75 East Liberty St, Toronto, Ontario",-79.414904,43.637991,/CA/Condo-For-Sale/ON/Toronto/King-West-Village/75-East-Liberty-St/81773061.html,"$627,000 CAD",1 Bed,1 Bath,--,Condo
+487,"Nord West Condos at Expo City - 2920 Highway 7, Vaughan, ON, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/Nord-West-Condos-at-Expo-City-2920-Highway-7-Vaughan-ON/86041606.html,"$643,975 CAD",--,--,--,Residential
+2580,"1 Valhalla Inn Rd ``, Toronto, Ontario",-79.559892,43.640668,/CA/Condo-For-Sale/ON/Toronto/Eatonville/1-Valhalla-Inn-Rd-/87313183.html,"$449,900 CAD",1 Bed,1 Bath,--,Condo
+489,"750 Bay St, Toronto, Ontario",-79.385926,43.659667,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/750-Bay-St/81772784.html,"$628,000 CAD",1 Bed,1 Bath,--,Condo
+490,"85 The Donway W Way Toronto Ontario M3C 0L9, Toronto, Ontario",-79.346205,43.733061,/CA/Home-For-Sale/ON/Toronto/Don-Mills/85-The-Donway-W-Way-Toronto-Ontario-M3C-0L9/82112595.html,"$568,000 CAD",1 Bed,1 Bath,--,Apartment
+491,"38 Howard Park Ave, Toronto, Ontario",-79.450175,43.651944,/CA/Condo-For-Sale/ON/Toronto/Roncesvalles/38-Howard-Park-Ave/87361753.html,"$599,900 CAD",2 Beds,2 Baths,--,Condo
+492,"120 Bayview Ave, Toronto, Ontario",-79.354472,43.653939,/CA/Home-For-Sale/ON/Toronto/West-Don-Lands/120-Bayview-Ave/79810687.html,"$599,000 CAD",2 Beds,2 Baths,--,Residential
+493,"65 Bremner Blvd, Toronto, Ontario",-79.380647,43.642914,/CA/Home-For-Sale/ON/Toronto/Financial-District/65-Bremner-Blvd/87131334.html,"$599,000 CAD",--,1 Bath,499 Sqft,Residential
+494,"637 Lake Shore Blvd W, Toronto, Ontario",-79.402086,43.635311,/CA/Condo-For-Sale/ON/Toronto/Fort-York/637-Lake-Shore-Blvd-W/86019710.html,"$870,000 CAD",1 Bed,1 Bath,--,Condo
+495,"207 Galloway Rd # 704, Toronto, Ontario",-79.3849,43.6529,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/207-Galloway-Rd-704/86557461.html,"$375,000 CAD",2 Beds,1 Bath,--,Condo
+496,"10A Edward St, Toronto, Ontario",-79.381738,43.657067,/CA/Other-Sale/ON/Toronto/Bay-Street-Corridor/10A-Edward-St/86737866.html,"$229,000 CAD",--,--,2400 Sqft,Other
+2604,"101 Charles St E, Toronto, Ontario",-79.380555,43.669643,/CA/Condo-For-Sale/ON/Toronto/Church-and-Wellesley/101-Charles-St-E/74200058.html,"$799,000 CAD",1 Bed,1 Bath,--,Condo
+2628,"284 Bloor St W, Toronto, Ontario",-79.401113,43.66752,/CA/Condo-For-Sale/ON/Toronto/The-Annex/284-Bloor-St-W/87314099.html,"$599,000 CAD",2 Beds,1 Bath,--,Condo
+499,"1630 Queen Street East, Toronto, Ontario",-79.315957,43.66666,/CA/Condo-For-Sale/ON/Toronto/The-Upper-Beaches/1630-Queen-Street-East/82258583.html,"$992,990 CAD",--,--,--,Condo
+2652,"85 East Liberty St, Toronto, Ontario",-79.415396,43.637897,/CA/Condo-For-Sale/ON/Toronto/King-West-Village/85-East-Liberty-St/87145418.html,"$529,000 CAD",1 Bed,1 Bath,--,Condo
+2676,"No address available, Toronto, Ontario",-79.398839,43.638833,/CA/Home-For-Sale/ON/Toronto/Cityplace/No-address-available/78766427.html,"$565,000 CAD",1 Bed,1 Bath,--,Apartment
+502,"5 Everson Dr, Toronto, Ontario",-79.40675,43.757547,/CA/Condo-For-Sale/ON/Toronto/Willowdale/5-Everson-Dr/75025183.html,"$632,500 CAD",2 Beds,2 Baths,--,Condo
+503,"55 Charles Street East, Toronto, Ontario",-79.383532,43.668901,/CA/Home-For-Sale/ON/Toronto/Church-and-Wellesley/55-Charles-Street-East/84881033.html,"$550,000 CAD",--,--,--,Apartment
+2700,"18 Rean Dr, Toronto, Ontario",-79.383178,43.766976,/CA/Home-For-Sale/ON/Toronto/Bayview-Village/18-Rean-Dr/82062960.html,"$568,000 CAD",2 Beds,2 Baths,--,Residential
+505,"Eglinton Avenue East, Toronto, Ontario",-79.304742,43.726059,/CA/Condo-For-Sale/ON/Toronto/Victoria-Park-Village/Eglinton-Avenue-East/74928533.html,"$550,900 CAD",--,--,--,Condo
+2724,"10 Navy Wharf Cr, Toronto, Ontario",-79.391757,43.640323,/CA/Home-For-Sale/ON/Toronto/Cityplace/10-Navy-Wharf-Cr/84109598.html,"$669,900 CAD",--,--,--,Residential
+507,"5 Northtown Way, Toronto, Ontario",-79.413831,43.775123,/CA/Condo-For-Sale/ON/Toronto/Willowdale/5-Northtown-Way/82103308.html,"$699,000 CAD",2 Beds,2 Baths,--,Condo
+508,"The Point at Emerald City - Don Mills Road, Toronto, ON, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/The-Point-at-Emerald-City-Don-Mills-Road-Toronto-ON/86041578.html,"$654,900 CAD",--,--,--,Residential
+2748,"197 Yonge St, Toronto, Ontario",-79.379373,43.653346,/CA/Condo-For-Sale/ON/Toronto/Garden-District/197-Yonge-St/86019705.html,"$780,000 CAD",1 Bed,1 Bath,--,Condo
+2772,"11 Michael Power Pl `, Toronto, Ontario",-79.530295,43.644779,/CA/Condo-For-Sale/ON/Toronto/Islington-Village/11-Michael-Power-Pl-/86359543.html,"$599,500 CAD",2 Beds,1 Bath,--,Condo
+2796,"1215 York Mills Road, Toronto, Ontario",-79.332067,43.758983,/CA/Home-For-Sale/ON/Toronto/Parkwoods/1215-York-Mills-Road/72194066.html,"$465,000 CAD",1 Bed,1 Bath,615 Sqft,Residential
+2820,"1260 caledonia, Toronto, Ontario",-79.46934,43.721067,/CA/Condo-For-Sale/ON/Toronto/Downsview/1260-caledonia/87416706.html,"$409,900 CAD",1 Bed,1 Bath,563 Sqft,Condo
+513,"Donalds Avenue, Toronto, Ontario",-79.467736,43.686356,/CA/Condo-For-Sale/ON/Toronto/Silverthorn/Donalds-Avenue/79037290.html,"$700,000 CAD",--,--,--,Condo
+514,"2330 Bridletowne Circ, Toronto, Ontario",-79.316239,43.799668,/CA/Condo-For-Sale/ON/Toronto/L-Amoreaux/2330-Bridletowne-Circ/76264706.html,"$465,000 CAD",1 Bed,2 Baths,--,Condo
+515,"53 Ontario Street, Toronto, Ontario",-79.366194,43.653465,/CA/Condo-For-Sale/ON/Toronto/Old-Town/53-Ontario-Street/82258537.html,"$576,900 CAD",--,--,--,Condo
+516,"Yorkville Ave, Toronto, Ontario",-79.391085,43.671019,/CA/Home-For-Sale/ON/Toronto/Yorkville/Yorkville-Ave/81152524.html,"$670,000 CAD",--,--,--,Apartment
+517,"20 Edward Street, Toronto, Ontario",-79.382489,43.657113,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/20-Edward-Street/82759333.html,"$1,566,900 CAD",--,--,--,Condo
+518,"68 Corporate Dr, Toronto, Ontario",-79.251006,43.780535,/CA/Home-For-Sale/ON/Toronto/Woburn/68-Corporate-Dr/75890735.html,"$519,900 CAD",2 Beds,2 Baths,--,Apartment
+519,"128 Pears Ave Toronto ON, Toronto, Ontario",-79.397877,43.675602,/CA/Home-For-Sale/ON/Toronto/The-Annex/128-Pears-Ave-Toronto-ON/86815566.html,"$915,000 CAD",1 Bed,1 Bath,799 Sqft,Residential
+520,"133 Hazelton Ave toronto, Toronto, Ontario",-79.394545,43.674922,/CA/Home-For-Sale/ON/Toronto/Yorkville/133-Hazelton-Ave-toronto/85275769.html,"$929,000 CAD",1 Bed,1 Bath,799 Sqft,Residential
+2844,"234 Simcoe Street, Toronto, Ontario",-79.389207,43.6533,/CA/Condo-For-Sale/ON/Toronto/Grange-Park/234-Simcoe-Street/75493062.html,"$501,900 CAD",--,--,--,Condo
+522,"35 Finch Ave E, Toronto, Ontario",-79.412679,43.78004,/CA/Condo-For-Sale/ON/Toronto/Willowdale/35-Finch-Ave-E/77026215.html,"$608,000 CAD",2 Beds,2 Baths,--,Condo
+523,"Terrasse Condos at The Hunt Club - 1316 Kingston Road, Toronto, ON, Toronto, Ontario",-79.275398,43.684996,/CA/Home-For-Sale/ON/Toronto/Birch-Cliff/Terrasse-Condos-at-The-Hunt-Club-1316-Kingston-Road-Toronto-ON/86041637.html,"$631,900 CAD",--,--,--,Residential
+2868,"38 Risdon Crt, Toronto, Ontario",-79.583368,43.663901,/CA/Home-For-Sale/ON/Toronto/Eringate/38-Risdon-Crt/83389919.html,"$929,900 CAD",3 Beds,2 Baths,--,Residential
+525,"5791 Yonge St Toronto Ontario M2M3T9, Toronto, Ontario",-79.41604,43.783997,/CA/Home-For-Sale/ON/Toronto/Newtonbrook/5791-Yonge-St-Toronto-Ontario-M2M3T9/78759643.html,"$555,000 CAD",2 Beds,2 Baths,--,Residential
+526,"23 Hollywood Ave Toronto Ontario M2N7L8, Toronto, Ontario",-79.410915,43.765666,/CA/Home-For-Sale/ON/Toronto/Willowdale/23-Hollywood-Ave-Toronto-Ontario-M2N7L8/78756474.html,"$549,000 CAD",1 Bed,1 Bath,--,Apartment
+527,"95 Lake Shore Boulevard E, Toronto, Ontario",-79.371315,43.645031,/CA/Condo-For-Sale/ON/Toronto/Downtown-Toronto/St-Lawrence/95-Lake-Shore-Boulevard-E/82760270.html,"$1,192,990 CAD",--,--,--,Condo
+528,"14 York St toronto, Toronto, Ontario",-79.381571,43.641877,/CA/Home-For-Sale/ON/Toronto/Cityplace/14-York-St-toronto/84475968.html,"$599,000 CAD",1 Bed,1 Bath,599 Sqft,Residential
+529,"142 BROWN'S Line, Toronto, Ontario",-79.5431257,43.5960624,/CA/Home-For-Sale/ON/Toronto/Alderwood/142-BROWNS-Line/87241351.html,"$1,675,000 CAD",7 Beds,3 Baths,1917 Sqft,Single family
+530,"15 Mcmurrich St Toronto, Toronto, Ontario",-79.389243,43.673341,/CA/Home-For-Sale/ON/Toronto/Yorkville/15-Mcmurrich-St-Toronto/85866698.html,"$1,249,000 CAD",2 Beds,3 Baths,1599 Sqft,Residential
+531,"King Toronto Condos - 533 King Street West, Toronto, ON, Toronto, Ontario",-79.35,43.65,/CA/Home-For-Sale/ON/Toronto/West-Don-Lands/King-Toronto-Condos-533-King-Street-West-Toronto-ON/86041611.html,"$855,990 CAD",--,--,--,Residential
+532,"10 Eva Road, Toronto, Ontario",-79.562771,43.641355,/CA/Condo-For-Sale/ON/Toronto/Bloordale-West-Mall/10-Eva-Road/82381775.html,"$472,000 CAD",--,--,--,Condo
+533,"15 Mercer St, Toronto, Ontario",-79.390564,43.645561,/CA/Condo-For-Sale/ON/Toronto/Entertainment-District/15-Mercer-St/86472130.html,"$925,000 CAD",2 Beds,2 Baths,719 Sqft,Condo
+534,"2 Gibbs Rd, Toronto, Ontario",-79.558157,43.638359,/CA/Condo-For-Sale/ON/Toronto/Eatonville/2-Gibbs-Rd/82381783.html,"$460,000 CAD",--,--,--,Condo
+2892,"15 Mercer St, Toronto, Ontario",-79.390564,43.645561,/CA/Condo-For-Sale/ON/Toronto/Entertainment-District/15-Mercer-St/86471235.html,"$1,528,000 CAD",3 Beds,2 Baths,1015 Sqft,Condo
+536,"26 O'halloran Cres, Toronto, Ontario",-79.286779,43.821346,/CA/Home-For-Sale/ON/Toronto/Milliken/26-Ohalloran-Cres/87129330.html,"$749,000 CAD",3 Beds,3 Baths,--,Residential
+537,"1 Bloor St E, Toronto, Ontario",-79.3864,43.670085,/CA/Condo-For-Sale/ON/Toronto/Church-and-Wellesley/1-Bloor-St-E/84618295.html,"$1,680,000 CAD",2 Beds,2 Baths,--,Condo
+538,"784 The Queensway, Toronto, Ontario",-79.50546,43.626209,/CA/Condo-For-Sale/ON/Toronto/The-Queensway/784-The-Queensway/82258555.html,"$533,900 CAD",--,--,--,Condo
+539,"121 Mcmahon Dr, Toronto, Ontario",-79.370623,43.767726,/CA/Condo-For-Sale/ON/Toronto/Bayview-Village/121-Mcmahon-Dr/75978317.html,"$484,800 CAD",1 Bed,1 Bath,--,Condo
+540,"1 Yonge St, Toronto, Ontario",-79.374378,43.643264,/CA/Condo-For-Sale/ON/Toronto/Downtown-Toronto/St-Lawrence/1-Yonge-St/84342248.html,"$729,900 CAD",--,--,--,Condo
+541,"55 Bremner Blvd, Toronto, Ontario",-79.380503,43.642945,/CA/Condo-For-Sale/ON/Toronto/Financial-District/55-Bremner-Blvd/82918395.html,"$698,800 CAD",1 Bed,1 Bath,--,Condo
+542,"15 Mercer Street, Toronto, Ontario",-79.390564,43.645561,/CA/Condo-For-Sale/ON/Toronto/Entertainment-District/15-Mercer-Street/74566688.html,"$958,800 CAD",2 Beds,2 Baths,799 Sqft,Condo
+543,"101 Charles St E, Toronto, Ontario",-79.380555,43.669643,/CA/Condo-For-Sale/ON/Toronto/Church-and-Wellesley/101-Charles-St-E/87361762.html,"$658,800 CAD",--,1 Bath,--,Condo
+544,"533 King Street West, Toronto, Ontario",-79.398506,43.644253,/CA/Condo-For-Sale/ON/Toronto/Fashion-District/533-King-Street-West/82258576.html,"$659,990 CAD",--,--,--,Condo
+2916,"Cove at Waterways - 2143 Lake Shore Boulevard West, Toronto, ON, Toronto, Ontario",-79.479203,43.626276,/CA/Home-For-Sale/ON/Toronto/Humber-Bay/Cove-at-Waterways-2143-Lake-Shore-Boulevard-West-Toronto-ON/86041610.html,"$804,900 CAD",--,--,--,Residential
+2940,"18 Mondeo Dr 1430, Toronto, Ontario",-79.2887569,43.7644378,/CA/Condo-For-Sale/ON/Toronto/Scarborough/Dorset-Park/18-Mondeo-Dr/87303826.html,"$399,000 CAD",2 Beds,1 Bath,--,Condo
+547,"1000 King St W, Toronto, Ontario",-79.414459,43.641893,/CA/Condo-For-Sale/ON/Toronto/King-West-Village/1000-King-St-W/80482388.html,"$600,000 CAD",1 Bed,1 Bath,--,Condo
+2964,"15 Stafford Street, Toronto, Ontario",-79.410072,43.641495,/CA/Condo-For-Sale/ON/Toronto/Niagara/15-Stafford-Street/87327402.html,"$699,000 CAD",1 Bed,1 Bath,799 Sqft,Condo
+549,"117 Mcmahon Dr, Toronto, Ontario",-79.371417,43.766734,/CA/Condo-For-Sale/ON/Toronto/Bayview-Village/117-Mcmahon-Dr/84868491.html,"$499,999 CAD",--,1 Bath,--,Condo
+550,"17 Zorra St ``, Toronto, Ontario",-79.521545,43.621156,/CA/Condo-For-Sale/ON/Toronto/The-Queensway/17-Zorra-St-/87313211.html,"$495,000 CAD",1 Bed,2 Baths,--,Condo
+2988,"210 Victoria St, Toronto, Ontario",-79.379207,43.654711,/CA/Condo-For-Sale/ON/Toronto/Garden-District/210-Victoria-St/86557300.html,"$589,000 CAD",1 Bed,1 Bath,--,Condo
+552,"17 Dundonald St, Toronto, Ontario",-79.383493,43.665904,/CA/Condo-For-Sale/ON/Toronto/Church-and-Wellesley/17-Dundonald-St/83350599.html,"$896,000 CAD",2 Beds,2 Baths,--,Condo
+553,"155 Yorkville Ave, Toronto, Ontario",-79.394354,43.670266,/CA/Home-For-Sale/ON/Toronto/Yorkville/155-Yorkville-Ave/84343471.html,"$499,000 CAD",--,--,--,Residential
+3012,"2161 Yonge Street, Toronto, Ontario",-79.397477,43.704689,/CA/Condo-For-Sale/ON/Toronto/Davisville-Village/2161-Yonge-Street/82258549.html,"$460,990 CAD",--,--,--,Condo
+3036,"Don Mills Road, Toronto, Ontario",-79.352375,43.781348,/CA/Condo-For-Sale/ON/Toronto/Don-Valley-Village/Don-Mills-Road/82484882.html,"$546,990 CAD",--,--,--,Condo
+3060,"25 Telegram Mews, Toronto, Ontario",-79.39457,43.640995,/CA/Condo-For-Sale/ON/Toronto/Cityplace/25-Telegram-Mews/86822677.html,"$498,800 CAD",1 Bed,1 Bath,--,Condo
+3084,"105 The Queensway Ave Toronto Ontario M6S 5B5, Toronto, Ontario",-79.471248,43.635791,/CA/Home-For-Sale/ON/Toronto/Swansea/105-The-Queensway-Ave-Toronto-Ontario-M6S-5B5/85867995.html,"$589,000 CAD",1 Bed,2 Baths,--,Apartment
+3108,"Encore Theatre District Condos Theatre District Condos - 28 Widmer Street, Toronto, ON, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/Encore-Theatre-District-Condos-Theatre-District-Condos-28-Widmer-Street-Toronto-ON/86041586.html,"$724,000 CAD",--,--,--,Residential
+559,"3014 Bayview Ave, Toronto, Ontario",-79.390207,43.775006,/CA/Home-For-Sale/ON/Toronto/Willowdale/3014-Bayview-Ave/86557570.html,"$1,380,000 CAD",3 Beds,4 Baths,--,Townhouse
+560,"10 Queens Quay W, Toronto, Ontario",-79.375813,43.641921,/CA/Condo-For-Sale/ON/Toronto/Harbourfront/10-Queens-Quay-W/86359419.html,"$550,000 CAD",--,1 Bath,--,Condo
+561,"21 Grand Magazine, Toronto, Ontario",-79.402059,43.636475,/CA/Condo-For-Sale/ON/Toronto/Fort-York/21-Grand-Magazine/85825675.html,"$690,000 CAD",1 Bed,1 Bath,--,Condo
+3132,"100 Harrison Garden Blvd, Toronto, Ontario",-79.405346,43.756736,/CA/Condo-For-Sale/ON/Toronto/Willowdale/100-Harrison-Garden-Blvd/72194243.html,"$809,999 CAD",2 Beds,2 Baths,--,Condo
+563,"90 Sumach St, Toronto, Ontario",-79.35993,43.657345,/CA/Condo-For-Sale/ON/Toronto/Regent-Park-Trefann-Court/90-Sumach-St/87381929.html,"$799,000 CAD",1 Bed,1 Bath,--,Condo
+3156,"12 York St Toronto, Toronto, Ontario",-79.381981,43.641465,/CA/Home-For-Sale/ON/Toronto/Cityplace/12-York-St-Toronto/85799054.html,"$499,000 CAD",--,1 Bath,499 Sqft,Residential
+565,"The LakeShore Condos - Bathurst Street, Toronto, ON, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/The-LakeShore-Condos-Bathurst-Street-Toronto-ON/86041640.html,"$668,900 CAD",--,--,--,Residential
+3180,"260 King St W, Toronto, Ontario",-79.387645,43.647459,/CA/Condo-For-Sale/ON/Toronto/Entertainment-District/260-King-St-W/84882443.html,"$459,990 CAD",--,--,--,Condo
+567,"5 Valhalla Inn Road, Toronto, Ontario",-79.559745,43.640278,/CA/Condo-For-Sale/ON/Toronto/Eatonville/5-Valhalla-Inn-Road/72242516.html,"$585,000 CAD",2 Beds,2 Baths,--,Condo
+568,"38 Yorkminster, Toronto, Ontario",-79.404048,43.753906,/CA/Home-For-Sale/ON/Toronto/York-Mills/38-Yorkminster/71621075.html,"$789,000 CAD",2 Beds,2 Baths,--,Townhouse
+569,"600 Fleet St, Toronto, Ontario",-79.400081,43.636706,/CA/Condo-For-Sale/ON/Toronto/Fort-York/600-Fleet-St/86761436.html,"$449,000 CAD",--,1 Bath,--,Condo
+570,"18 Rean Dr, Toronto, Ontario",-79.383178,43.766976,/CA/Home-For-Sale/ON/Toronto/Bayview-Village/18-Rean-Dr/81686342.html,"$468,000 CAD",1 Bed,1 Bath,--,Residential
+3204,"2035 Kennedy Road, Toronto, Ontario",-79.282659,43.777079,/CA/Condo-For-Sale/ON/Toronto/Agincourt/2035-Kennedy-Road/82381819.html,"$400,000 CAD",--,--,--,Condo
+572,"375 King St W, Toronto, Ontario",-79.393061,43.645669,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/375-King-St-W/86318852.html,"$559,000 CAD",--,1 Bath,499 Sqft,Residential
+573,"2306 St Clair Ave, Toronto, Ontario",-79.478355,43.670691,/CA/Condo-For-Sale/ON/Toronto/Syme/2306-St-Clair-Ave/85803440.html,"$659,990 CAD",1 Bed,2 Baths,--,Condo
+3228,"1200 Dundas St W, Toronto, Ontario",-79.422523,43.649805,/CA/Condo-For-Sale/ON/Toronto/Trinity-Bellwoods/1200-Dundas-St-W/84882434.html,"$500,000 CAD",--,--,--,Condo
+575,"2201 Kingston Road, Toronto, Ontario",-79.25284,43.703133,/CA/Condo-For-Sale/ON/Toronto/Cliffside/2201-Kingston-Road/81111817.html,"$349,000 CAD",--,--,--,Condo
+576,"17 Beethoven Crt, Toronto, Ontario",-79.367478,43.793086,/CA/Home-For-Sale/ON/Toronto/Hillcrest-Village/17-Beethoven-Crt/77790649.html,"$818,000 CAD",3 Beds,2 Baths,--,Residential
+577,"60 Colborne St Toronto Ontario M5E1E3, Toronto, Ontario",-79.374725,43.649335,/CA/Home-For-Sale/ON/Toronto/Old-Town/60-Colborne-St-Toronto-Ontario-M5E1E3/82891765.html,"$612,500 CAD",1 Bed,1 Bath,--,Apartment
+578,"The Kip District Phase 1 - 5365 Dundas Street West, Toronto, ON, Toronto, Ontario",-79.46,43.65,/CA/Home-For-Sale/ON/Toronto/West-End-Toronto/High-Park/The-Kip-District-Phase-1-5365-Dundas-Street-West-Toronto-ON/86557474.html,"$499,900 CAD",--,--,--,Residential
+579,"10 Park Lawn Rd ```, Toronto, Ontario",-79.483934,43.623221,/CA/Condo-For-Sale/ON/Toronto/Mimico/10-Park-Lawn-Rd-/86359458.html,"$559,000 CAD",1 Bed,1 Bath,--,Condo
+3252,"12 York St, Toronto, Ontario",-79.381981,43.641465,/CA/Condo-For-Sale/ON/Toronto/Cityplace/12-York-St/82619337.html,"$739,900 CAD",1 Bed,1 Bath,--,Condo
+581,"500 Richmond St W, Toronto, Ontario",-79.399168,43.647624,/CA/Condo-For-Sale/ON/Toronto/Fashion-District/500-Richmond-St-W/83619798.html,"$649,000 CAD",1 Bed,1 Bath,--,Condo
+582,"410 Queens Quay W, Toronto, Ontario",-79.39147,43.638136,/CA/Condo-For-Sale/ON/Toronto/Harbourfront/410-Queens-Quay-W/86359901.html,"$649,000 CAD",1 Bed,1 Bath,--,Condo
+583,"2306 Saint Clair Avenue West, Toronto, Ontario",-79.478355,43.670691,/CA/Condo-For-Sale/ON/Toronto/Syme/2306-Saint-Clair-Avenue-West/82258479.html,"$460,990 CAD",--,--,--,Condo
+3276,"31 Nipigon Ave, Toronto, Ontario",-79.417328,43.797531,/CA/Home-For-Sale/ON/Toronto/Newtonbrook/31-Nipigon-Ave/82103314.html,"$2,498,000 CAD",4 Beds,6 Baths,--,Residential
+585,"38 Joe Shuster Way Toronto Ontario M6K 0A5, Toronto, Ontario",-79.424652,43.640425,/CA/Home-For-Sale/ON/Toronto/Liberty-Village/38-Joe-Shuster-Way-Toronto-Ontario-M6K-0A5/75992242.html,"$509,000 CAD",--,--,560 Sqft,Apartment
+3300,"1 Ennismore Pl, Toronto, Ontario",-79.358031,43.776047,/CA/Home-For-Sale/ON/Toronto/Don-Valley-Village/1-Ennismore-Pl/77026212.html,"$1,325,000 CAD",4 Beds,2 Baths,--,Residential
+587,"Weston Rd., Toronto, Ontario",-79.515078,43.700232,/CA/Home-For-Sale/ON/Toronto/Weston/Weston-Rd/54434584.html,"$14,850,000 CAD",--,--,165086.09 Sqft,Residential
+588,"1 Rean Dr, Toronto, Ontario",-79.383277,43.765202,/CA/Home-For-Sale/ON/Toronto/Bayview-Village/1-Rean-Dr/82062254.html,"$549,000 CAD",1 Bed,2 Baths,--,Residential
+589,"155 Yorkville Ave Toronto, Toronto, Ontario",-79.394354,43.670266,/CA/Home-For-Sale/ON/Toronto/Yorkville/155-Yorkville-Ave-Toronto/85561507.html,"$598,000 CAD",1 Bed,1 Bath,499 Sqft,Residential
+590,"155 Yorkville Ave, Toronto, Ontario",-79.394354,43.670266,/CA/Home-For-Sale/ON/Toronto/Yorkville/155-Yorkville-Ave/84989250.html,"$559,900 CAD",1 Bed,1 Bath,499 Sqft,Residential
+3324,"155 Yorkville Ave, Toronto, Ontario",-79.394354,43.670266,/CA/Home-For-Sale/ON/Toronto/Yorkville/155-Yorkville-Ave/86812962.html,"$624,900 CAD",1 Bed,1 Bath,599 Sqft,Residential
+3348,"160 Baldwin Street, Toronto, Ontario",-79.400016,43.655137,/CA/Condo-For-Sale/ON/Toronto/Kensington/160-Baldwin-Street/87327397.html,"$1,249,000 CAD",1 Bed,2 Baths,1400 Sqft,Condo
+593,"165 Legion Rd N, Toronto, Ontario",-79.488068,43.624131,/CA/Condo-For-Sale/ON/Toronto/Mimico/165-Legion-Rd-N/86720812.html,"$499,000 CAD",1 Bed,1 Bath,580 Sqft,Condo
+594,"17 Jasmine Rd Toronto Ontario M9M2P8, Toronto, Ontario",-79.538022,43.722063,/CA/Home-For-Sale/ON/Toronto/Humberlea/17-Jasmine-Rd-Toronto-Ontario-M9M2P8/81323959.html,"$1,788,888 CAD",6 Beds,6 Baths,5500 Sqft,Residential
+595,"170 Avenue Rd, Toronto, Ontario",-79.397347,43.675305,/CA/Home-For-Sale/ON/Toronto/The-Annex/170-Avenue-Rd/84964437.html,"$865,000 CAD",1 Bed,1 Bath,865000 Sqft,Residential
+3372,"18 Kenaston Gdns, Toronto, Ontario",-79.386148,43.76582,/CA/Home-For-Sale/ON/Toronto/Bayview-Village/18-Kenaston-Gdns/85865991.html,"$630,000 CAD",2 Beds,2 Baths,900 Sqft,Apartment
+597,"18 Pemberton Ave, Toronto, Ontario",-79.413054,43.781501,/CA/Condo-For-Sale/ON/Toronto/Newtonbrook/18-Pemberton-Ave/87460808.html,"$460,900 CAD",1 Bed,1 Bath,584 Sqft,Condo
+3396,"18 Yonge St Toronto, Toronto, Ontario",-79.376477,43.644541,/CA/Home-For-Sale/ON/Toronto/Financial-District/18-Yonge-St-Toronto/86815531.html,"$649,900 CAD",1 Bed,2 Baths,699 Sqft,Residential
+3420,"18 Yorkville Ave Toronto, Toronto, Ontario",-79.387932,43.672008,/CA/Home-For-Sale/ON/Toronto/Yorkville/18-Yorkville-Ave-Toronto/86527495.html,"$1,100,000 CAD",2 Beds,2 Baths,899 Sqft,Residential
+600,"180 University Ave toronto, Toronto, Ontario",-79.386113,43.649025,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/180-University-Ave-toronto/86154157.html,"$999,999 CAD",1 Bed,1 Bath,899 Sqft,Residential
+601,"180 University Ave, Toronto, Ontario",-79.386113,43.649025,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/180-University-Ave/85868142.html,"$999,999 CAD",1 Bed,1 Bath,899 Sqft,Residential
+602,"181 Davenport Rd, Toronto, Ontario",-79.393795,43.674878,/CA/Home-For-Sale/ON/Toronto/Yorkville/181-Davenport-Rd/85319497.html,"$2,350,000 CAD",2 Beds,3 Baths,1799 Sqft,Residential
+603,"181 Dowling Avenue, Toronto, Ontario",-79.439261,43.639347,/CA/Multi-Family-For-Sale/ON/Toronto/Parkdale/181-Dowling-Avenue/87416711.html,"$2,499,900 CAD",10 Beds,8 Baths,3366 Sqft,Multi-family
+604,"183 Wellington St W toronto, Toronto, Ontario",-79.387361,43.645415,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/183-Wellington-St-W-toronto/85683509.html,"$3,295,000 CAD",2 Beds,3 Baths,1999 Sqft,Residential
+605,"183 Wellington Street West, Toronto, Toronto, Ontario",-79.386719,43.645832,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/183-Wellington-Street-West-Toronto/79505866.html,"$2,960,000 CAD",2 Beds,3 Baths,2280 Sqft,Apartment
+606,"19 Barberry Pl, Toronto, Ontario",-79.384859,43.766003,/CA/Home-For-Sale/ON/Toronto/Bayview-Village/19-Barberry-Pl/87459377.html,"$489,000 CAD",1 Bed,1 Bath,480 Sqft,Residential
+607,"19 Singer Crt, Toronto, Ontario",-79.369645,43.769466,/CA/Home-For-Sale/ON/Toronto/Bayview-Village/19-Singer-Crt/86092820.html,"$486,000 CAD",1 Bed,1 Bath,540 Sqft,Apartment
+608,"2 Anndale Drive, Toronto, Ontario",-79.410121,43.761263,/CA/Condo-For-Sale/ON/Toronto/Willowdale/2-Anndale-Drive/87327405.html,"$688,000 CAD",1 Bed,1 Bath,600 Sqft,Condo
+609,"20 Collier St, Toronto, Ontario",-79.386856,43.672473,/CA/Home-For-Sale/ON/Toronto/Midtown-Toronto/Rosedale/20-Collier-St/84989476.html,"$668,000 CAD",1 Bed,1 Bath,599 Sqft,Residential
+610,"20 Joe Shuster Way, Toronto, Ontario",-79.423917,43.640144,/CA/Home-For-Sale/ON/Toronto/Liberty-Village/20-Joe-Shuster-Way/86557554.html,"$498,000 CAD",1 Bed,1 Bath,599 Sqft,Residential
+3444,"20 Maynard Avenue, Toronto, Ontario",-79.437832,43.637643,/CA/Home-For-Sale/ON/Toronto/Parkdale/20-Maynard-Avenue/73227698.html,"$4,750,000 CAD",18 Beds,8 Baths,5662.8 Sqft,Residential
+612,"20 Minowan Miikan Lane , Toronto, Ontario",-79.428134,43.643063,/CA/Condo-For-Sale/ON/Toronto/Beaconsfield-Village/20-Minowan-Miikan-Lane-/87411988.html,"$763,000 CAD",2 Beds,2 Baths,750 Sqft,Condo
+613,"20 Minowan Miikan Lane Toronto, Toronto, Ontario",-79.428134,43.643063,/CA/Home-For-Sale/ON/Toronto/Beaconsfield-Village/20-Minowan-Miikan-Lane-Toronto/87241801.html,"$763,000 CAD",2 Beds,2 Baths,799 Sqft,Residential
+3468,"20 Tubman Ave, Toronto, Ontario",-79.359362,43.660605,/CA/Condo-For-Sale/ON/Toronto/Regent-Park-Trefann-Court/20-Tubman-Ave/83504324.html,"$595,000 CAD",1 Bed,1 Bath,730 Sqft,Condo
+615,"20 Tubman Ave, Toronto, Ontario",-79.359362,43.660605,/CA/Condo-For-Sale/ON/Toronto/Regent-Park-Trefann-Court/20-Tubman-Ave/83618763.html,"$699,900 CAD",2 Beds,2 Baths,872 Sqft,Condo
+616,"21 Grand Magazine St , Toronto, Ontario",-79.402059,43.636475,/CA/Condo-For-Sale/ON/Toronto/Fort-York/21-Grand-Magazine-St-/87411370.html,"$685,000 CAD",1 Bed,1 Bath,750 Sqft,Condo
+3492,"21 Kestell Lane, Toronto, Ontario",-79.339729,43.748836,/CA/Home-For-Sale/ON/Toronto/Don-Mills/21-Kestell-Lane/86774010.html,"$1,688,800 CAD",4 Beds,2 Baths,2090 Sqft,Residential
+618,"21 Nelson Street Toronto ON, Toronto, Ontario",-79.232456,43.746222,/CA/Home-For-Sale/ON/Toronto/Woburn/21-Nelson-Street-Toronto-ON/86999842.html,"$688,000 CAD",1 Bed,1 Bath,688000 Sqft,Residential
+619,"21 Nelson Street, Toronto, Ontario",-79.388125,43.64913,/CA/Condo-For-Sale/ON/Toronto/Entertainment-District/21-Nelson-Street/87327409.html,"$569,900 CAD",1 Bed,1 Bath,599 Sqft,Condo
+620,"215 Fort York Blvd, Toronto, Ontario",-79.404867,43.636608,/CA/Condo-For-Sale/ON/Toronto/Fort-York/215-Fort-York-Blvd/83504083.html,"$839,000 CAD",2 Beds,2 Baths,820 Sqft,Condo
+621,"215 Lake Shore Blvd E Lakeside Residence, Toronto, Ontario",-79.366989,43.645666,/CA/Condo-For-Sale/ON/Toronto/Downtown-Toronto/St-Lawrence/215-Lake-Shore-Blvd-E-Lakeside-Residence/83190679.html,"$824,000 CAD",1 Bed,1 Bath,641 Sqft,Condo
+622,"2183 Lake Shore Blvd W, Toronto, Ontario",-79.480407,43.623686,/CA/Condo-For-Sale/ON/Toronto/Humber-Bay/2183-Lake-Shore-Blvd-W/84933197.html,"$689,000 CAD",2 Beds,1 Bath,677 Sqft,Condo
+623,"22 Maynard Avenue, Toronto, Ontario",-79.43795,43.637781,/CA/Home-For-Sale/ON/Toronto/Parkdale/22-Maynard-Avenue/73227684.html,"$7,500,000 CAD",36 Beds,36 Baths,9537 Sqft,Apartment
+3516,"225 Sackville St, Toronto, Ontario",-79.362653,43.659783,/CA/Condo-For-Sale/ON/Toronto/Regent-Park-Trefann-Court/225-Sackville-St/86719949.html,"$649,900 CAD",1 Bed,2 Baths,625 Sqft,Condo
+625,"23 Glebe Rd West Toronto ON, Toronto, Ontario",-79.397789,43.700445,/CA/Home-For-Sale/ON/Toronto/Chaplin-Estates/23-Glebe-Rd-West-Toronto-ON/86999834.html,"$639,900 CAD",1 Bed,1 Bath,599 Sqft,Residential
+626,"23 Glebe Rd West Toronto, Toronto, Ontario",-79.397789,43.700445,/CA/Home-For-Sale/ON/Toronto/Chaplin-Estates/23-Glebe-Rd-West-Toronto/86908759.html,"$639,900 CAD",1 Bed,1 Bath,599 Sqft,Residential
+627,"25 Telegram Mews Toronto Ontario, Toronto, Ontario",-79.39457,43.640995,/CA/Home-For-Sale/ON/Toronto/Cityplace/25-Telegram-Mews-Toronto-Ontario/86812442.html,"$498,800 CAD",1 Bed,1 Bath,599 Sqft,Residential
+448,"25 Telegram Mews, Toronto, Ontario",-79.394509,43.641356,/CA/Condo-For-Sale/ON/Toronto/Cityplace/25-Telegram-Mews/87459310.html,"$500,000 CAD",1 Bed,1 Bath,550 Sqft,Condo
+259,"257 Queens Quay E, Toronto, Ontario",-79.363276,43.645254,/CA/Condo-For-Sale/ON/Toronto/Downtown-Toronto/St-Lawrence/257-Queens-Quay-E/67496944.html,"$1,980,000 CAD",2 Beds,2 Baths,1788 Sqft,Condo
+630,"27 Dalton Rd Toronto, Toronto, Ontario",-79.406893,43.667226,/CA/Home-For-Sale/ON/Toronto/The-Annex/27-Dalton-Rd-Toronto/86529582.html,"$2,499,900 CAD",5 Beds,6 Baths,3500 Sqft,Residential
+631,"275 Village Green Sq Toronto Ontario M1S 0L8, Toronto, Ontario",-79.282762,43.779324,/CA/Condo-For-Sale/ON/Toronto/Agincourt/275-Village-Green-Sq-Toronto-Ontario-M1S-0L8/87241783.html,"$568,000 CAD",2 Beds,2 Baths,790 Sqft,Condo
+632,"285 Birchmount road, Toronto, Ontario",-79.264008,43.697903,/CA/Home-For-Sale/ON/Toronto/Birch-Cliff/285-Birchmount-road/87413099.html,"$1,375,000 CAD",4 Beds,5 Baths,2500 Sqft,Residential
+633,"2885 Bayview Avenue, Toronto, Ontario",-79.388066,43.768617,/CA/Condo-For-Sale/ON/Toronto/Bayview-Village/2885-Bayview-Avenue/87327588.html,"$578,000 CAD",1 Bed,1 Bath,700 Sqft,Condo
+634,"29 Queens Quay E, Toronto, Ontario",-79.372704,43.642275,/CA/Condo-For-Sale/ON/Toronto/Downtown-Toronto/St-Lawrence/29-Queens-Quay-E/87459282.html,"$1,599,000 CAD",2 Beds,2 Baths,1300 Sqft,Condo
+635,"290 Adelaide St Toronto Ontario, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/290-Adelaide-St-Toronto-Ontario/86737845.html,"$979,000 CAD",2 Beds,2 Baths,899 Sqft,Residential
+659,"290 Adelaide St Toronto, Toronto, Ontario",-79.46,43.65,/CA/Home-For-Sale/ON/Toronto/West-End-Toronto/High-Park/290-Adelaide-St-Toronto/86625615.html,"$979,000 CAD",2 Beds,2 Baths,899 Sqft,Residential
+372,"290 Adelaide St W, Toronto, Ontario",-79.391025,43.647876,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/290-Adelaide-St-W/85274245.html,"$599,000 CAD",1 Bed,1 Bath,599 Sqft,Residential
+638,"290 Adelaide St West Toronto, Toronto, Ontario",-79.370172,43.652169,/CA/Home-For-Sale/ON/Toronto/Old-Town/290-Adelaide-St-West-Toronto/87460833.html,"$739,000 CAD",1 Bed,1 Bath,599 Sqft,Residential
+639,"290 Adelaide St West Toronto, Toronto, Ontario",-79.370172,43.652169,/CA/Home-For-Sale/ON/Toronto/Old-Town/290-Adelaide-St-West-Toronto/86769971.html,"$979,000 CAD",2 Beds,2 Baths,899 Sqft,Residential
+640,"295 Adelaide St W, Toronto, Ontario",-79.39076,43.647603,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/295-Adelaide-St-W/85799146.html,"$869,000 CAD",2 Beds,2 Baths,799 Sqft,Residential
+641,"295 Adelaide St West Tor ON, Toronto, Ontario",-79.39076,43.647603,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/295-Adelaide-St-West-Tor-ON/86273882.html,"$924,900 CAD",2 Beds,2 Baths,899 Sqft,Residential
+642,"295 Adelaide St West Toronto, Toronto, Ontario",-79.39076,43.647603,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/295-Adelaide-St-West-Toronto/86154017.html,"$869,000 CAD",2 Beds,2 Baths,799 Sqft,Residential
+643,"3 Navy Wharf Crt, Toronto, Ontario",-79.390859,43.640311,/CA/Home-For-Sale/ON/Toronto/Cityplace/3-Navy-Wharf-Crt/87460843.html,"$999,000 CAD",2 Beds,2 Baths,1199 Sqft,Residential
+644,"30 Nelson St Toronto ON, Toronto, Ontario",-79.231585,43.746414,/CA/Home-For-Sale/ON/Toronto/Woburn/30-Nelson-St-Toronto-ON/86557638.html,"$838,000 CAD",2 Beds,2 Baths,799 Sqft,Residential
+712,"30 Ordnance St, Toronto, Ontario",-79.409769,43.639732,/CA/Home-For-Sale/ON/Toronto/Fort-York/30-Ordnance-St/85649794.html,"$549,900 CAD",1 Bed,1 Bath,600 Sqft,Residential
+223,"30 Ordnance St, Toronto, Ontario",-79.409769,43.639732,/CA/Condo-For-Sale/ON/Toronto/Fort-York/30-Ordnance-St/86815696.html,"$1,628,900 CAD",3 Beds,2 Baths,1917 Sqft,Condo
+416,"30 Ordnance St, Toronto, Ontario",-79.409769,43.639732,/CA/Condo-For-Sale/ON/Toronto/Fort-York/30-Ordnance-St/84110740.html,"$720,800 CAD",1 Bed,1 Bath,618 Sqft,Condo
+648,"300 Front St W, Toronto, Ontario",-79.389439,43.644062,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/300-Front-St-W/86472244.html,"$1,995,000 CAD",2 Beds,3 Baths,1799 Sqft,Residential
+649,"31 Jane Osler Blvd, Toronto, Ontario",-79.459742,43.723895,/CA/Home-For-Sale/ON/Toronto/Downsview/31-Jane-Osler-Blvd/85319471.html,"$2,190,000 CAD",5 Beds,4 Baths,3000 Sqft,Residential
+342,"311 Bay St Toronto Ontario, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/311-Bay-St-Toronto-Ontario/86230090.html,"$3,100,000 CAD",2 Beds,3 Baths,2228 Sqft,Residential
+651,"311 Bay St, Toronto, Ontario",-79.38044,43.649783,/CA/Condo-For-Sale/ON/Toronto/Financial-District/311-Bay-St/87459276.html,"$1,599,000 CAD",1 Bed,2 Baths,1500 Sqft,Condo
+709,"32 Davenport Rd Toronto, Toronto, Ontario",-79.38989,43.673344,/CA/Home-For-Sale/ON/Toronto/Yorkville/32-Davenport-Rd-Toronto/85974074.html,"$1,688,000 CAD",3 Beds,3 Baths,1399 Sqft,Residential
+653,"33 Prospect Street, Toronto, Ontario",-79.367,43.6645,/CA/Home-For-Sale/ON/Toronto/Cabbagetown/33-Prospect-Street/87459318.html,"$1,349,000 CAD",3 Beds,3 Baths,2129 Sqft,House
+654,"35 Bastion St, Toronto, Ontario",-79.403575,43.637205,/CA/Home-For-Sale/ON/Toronto/Fort-York/35-Bastion-St/84674001.html,"$849,900 CAD",2 Beds,2 Baths,999 Sqft,Residential
+655,"35 Empress Avenue, Toronto, Ontario",-79.411341,43.769267,/CA/Condo-For-Sale/ON/Toronto/Willowdale/35-Empress-Avenue/87327585.html,"$599,000 CAD",2 Beds,2 Baths,900 Sqft,Condo
+656,"355 King St W Toronto ON, Toronto, Ontario",-79.392083,43.646011,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/355-King-St-W-Toronto-ON/86739531.html,"$760,000 CAD",1 Bed,1 Bath,599 Sqft,Residential
+657,"355 King St W, Toronto, Ontario",-79.391945,43.645966,/CA/Condo-For-Sale/ON/Toronto/Entertainment-District/355-King-St-W/78015017.html,"$855,000 CAD",3 Beds,2 Baths,847 Sqft,Condo
+658,"355 King St W, Toronto, Ontario",-79.391945,43.645966,/CA/Condo-For-Sale/ON/Toronto/Entertainment-District/355-King-St-W/75493797.html,"$699,000 CAD",1 Bed,1 Bath,569 Sqft,Condo
+373,"355 King St W, Toronto, Ontario",-79.391945,43.645966,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/355-King-St-W/75494670.html,"$1,099,999 CAD",3 Beds,2 Baths,1000 Sqft,Residential
+660,"36 Charlotte Street, Toronto, Ontario",-79.394263,43.646642,/CA/Condo-For-Sale/ON/Toronto/Entertainment-District/36-Charlotte-Street/87327407.html,"$649,900 CAD",1 Bed,1 Bath,699 Sqft,Condo
+661,"36 Hazelton Ave, Toronto, Ontario",-79.39381,43.671864,/CA/Home-For-Sale/ON/Toronto/Yorkville/36-Hazelton-Ave/85425406.html,"$4,400,000 CAD",2 Beds,3 Baths,2700 Sqft,Residential
+662,"36 Lisgar St Toronto Ontario M6J3G2, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/36-Lisgar-St-Toronto-Ontario-M6J3G2/78079922.html,"$479,900 CAD",1 Bed,2 Baths,728 Sqft,Apartment
+663,"361 Front St West, Toronto, Ontario",-79.391639,43.643097,/CA/Home-For-Sale/ON/Toronto/Cityplace/361-Front-St-West/86153974.html,"$685,000 CAD",1 Bed,1 Bath,799 Sqft,Residential
+664,"38 Elm Street Toronto, Toronto, Ontario",-79.383296,43.657776,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/38-Elm-Street-Toronto/86625469.html,"$789,000 CAD",1 Bed,2 Baths,899 Sqft,Residential
+22,"386 Yonge St , Toronto, Ontario",-79.382544,43.659373,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/386-Yonge-St-/87411997.html,"$849,000 CAD",1 Bed,1 Bath,750 Sqft,Condo
+666,"39 Queens Quay E, Toronto, Ontario",-79.372125,43.64244,/CA/Home-For-Sale/ON/Toronto/Downtown-Toronto/St-Lawrence/39-Queens-Quay-E/85604968.html,"$739,000 CAD",1 Bed,1 Bath,699 Sqft,Residential
+742,"42 Charles St. East, Toronto, Ontario",-79.384182,43.669355,/CA/Home-For-Sale/ON/Toronto/Church-and-Wellesley/42-Charles-St-East/82238868.html,"$599,900 CAD",1 Bed,1 Bath,480 Sqft,Apartment
+668,"4331B Bloor St West, Toronto, Ontario",-79.574808,43.631942,/CA/Home-For-Sale/ON/Toronto/Markland-Wood/4331B-Bloor-St-West/76541484.html,"$885,000 CAD",3 Beds,3 Baths,2225 Sqft,Townhouse
+669,"4K Spadina Ave Toronto, Toronto, Ontario",-79.394848,43.6407,/CA/Home-For-Sale/ON/Toronto/Cityplace/4K-Spadina-Ave-Toronto/85274447.html,"$699,900 CAD",2 Beds,2 Baths,799 Sqft,Residential
+670,"5 MASSEY SQUARE, Toronto, Ontario",-79.292759,43.696275,/CA/Home-For-Sale/ON/Toronto/Crescent-Town/5-MASSEY-SQUARE/87363340.html,"$325,000 CAD",1 Bed,1 Bath,780 Sqft,Apartment
+671,"50 Lynn Williams St, Toronto, Ontario",-79.415185,43.639644,/CA/Home-For-Sale/ON/Toronto/King-West-Village/50-Lynn-Williams-St/80813667.html,"$499,900 CAD",1 Bed,1 Bath,675 Sqft,Residential
+672,"50 Yorkville Ave, Toronto, Ontario",-79.389563,43.671687,/CA/Home-For-Sale/ON/Toronto/Yorkville/50-Yorkville-Ave/85683529.html,"$6,395,000 CAD",2 Beds,3 Baths,2749 Sqft,Residential
+673,"500 Queens Quay W, Toronto, Ontario",-79.395147,43.63776,/CA/Home-For-Sale/ON/Toronto/Harbourfront/500-Queens-Quay-W/85651171.html,"$1,199,000 CAD",2 Beds,2 Baths,1399 Sqft,Residential
+674,"501 Adelaide St Toronto, Toronto, Ontario",-79.400354,43.64578,/CA/Home-For-Sale/ON/Toronto/Fashion-District/501-Adelaide-St-Toronto/85374003.html,"$618,000 CAD",1 Bed,1 Bath,599 Sqft,Residential
+675,"508 Wellington St toronto, Toronto, Ontario",-79.46,43.65,/CA/Home-For-Sale/ON/Toronto/West-End-Toronto/High-Park/508-Wellington-St-toronto/85039245.html,"$599,999 CAD",1 Bed,1 Bath,699 Sqft,Residential
+766,"508 Wellington St torotno, Toronto, Ontario",-79.399132,43.643406,/CA/Home-For-Sale/ON/Toronto/Fashion-District/508-Wellington-St-torotno/85683490.html,"$718,000 CAD",1 Bed,1 Bath,699 Sqft,Residential
+677,"5180 Yonge St, Toronto, Ontario",-79.413594,43.770358,/CA/Condo-For-Sale/ON/Toronto/Willowdale/5180-Yonge-St/76372453.html,"$750,000 CAD",2 Beds,2 Baths,707 Sqft,Condo
+678,"55 Bremner Blvd, Toronto, Ontario",-79.380503,43.642945,/CA/Condo-For-Sale/ON/Toronto/Financial-District/55-Bremner-Blvd/87411852.html,"$749,900 CAD",1 Bed,1 Bath,650 Sqft,Condo
+679,"55 Scollard St, Toronto, Ontario",-79.390049,43.672047,/CA/Home-For-Sale/ON/Toronto/Yorkville/55-Scollard-St/85319492.html,"$1,595,000 CAD",1 Bed,2 Baths,1199 Sqft,Residential
+680,"559 Bloor St E, Toronto, Ontario",-79.373998,43.672213,/CA/Home-For-Sale/ON/Toronto/St-James-Town/559-Bloor-St-E/75205812.html,"$999,999 CAD",1 Bed,1 Bath,920 Sqft,Apartment
+681,"576 Front St West, Toronto, Ontario",-79.400745,43.641138,/CA/Condo-For-Sale/ON/Toronto/Fashion-District/576-Front-St-West/87327399.html,"$999,000 CAD",2 Beds,2 Baths,1000 Sqft,Condo
+682,"58 Orchard View Blvd, Toronto, Ontario",-79.400684,43.708163,/CA/Condo-For-Sale/ON/Toronto/North-Toronto/58-Orchard-View-Blvd/87327586.html,"$598,000 CAD",1 Bed,1 Bath,600 Sqft,Condo
+683,"585 Bloor Street East, Toronto, Ontario",-79.372403,43.671819,/CA/Condo-For-Sale/ON/Toronto/St-James-Town/585-Bloor-Street-East/85274585.html,"$830,000 CAD",2 Beds,2 Baths,845 Sqft,Condo
+684,"591 Dundas St E, Toronto, Ontario",-79.360793,43.660355,/CA/Condo-For-Sale/ON/Toronto/Regent-Park-Trefann-Court/591-Dundas-St-E/84038051.html,"$509,000 CAD",1 Bed,1 Bath,469 Sqft,Condo
+685,"620 King Street West, Toronto, Ontario",-79.400784,43.644574,/CA/Condo-For-Sale/ON/Toronto/Fashion-District/620-King-Street-West/79759290.html,"$509,900 CAD",1 Bed,1 Bath,424 Sqft,Condo
+790,"65 Bremner Blvd toronto, Toronto, Ontario",-79.380647,43.642914,/CA/Home-For-Sale/ON/Toronto/Financial-District/65-Bremner-Blvd-toronto/84497847.html,"$779,900 CAD",2 Beds,2 Baths,799 Sqft,Residential
+687,"65 St Mary St Toronto, Toronto, Ontario",-79.389042,43.666898,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/65-St-Mary-St-Toronto/86737925.html,"$1,095,000 CAD",2 Beds,2 Baths,899 Sqft,Residential
+814,"70 Distillery Lane, Toronto, Ontario",-79.357935,43.650118,/CA/Condo-For-Sale/ON/Toronto/Distillery-District/70-Distillery-Lane/76102275.html,"$600,000 CAD",1 Bed,1 Bath,538 Sqft,Condo
+838,"717-719 Queen St W, Toronto, Ontario",-79.41255,43.645328,/CA/Other-Sale/ON/Toronto/Niagara/717-719-Queen-St-W/85650959.html,"$3,650,000 CAD",2 Beds,4 Baths,2879 Sqft,Other
+862,"75 Portland St Toronto, Toronto, Ontario",-79.399479,43.643901,/CA/Home-For-Sale/ON/Toronto/Fashion-District/75-Portland-St-Toronto/86738003.html,"$1,100,000 CAD",1 Bed,2 Baths,1399 Sqft,Residential
+691,"75 Portland St toronto, Toronto, Ontario",-79.399479,43.643901,/CA/Home-For-Sale/ON/Toronto/Fashion-District/75-Portland-St-toronto/85683487.html,"$675,000 CAD",1 Bed,1 Bath,799 Sqft,Residential
+692,"75 York Mills Rd, Toronto, Ontario",-79.401093,43.744085,/CA/Home-For-Sale/ON/Toronto/Hoggs-Hollow/75-York-Mills-Rd/87413307.html,"$695,000 CAD",1 Bed,2 Baths,812 Sqft,Residential
+693,"750 Bay St Toronto, Toronto, Ontario",-79.46,43.65,/CA/Home-For-Sale/ON/Toronto/West-End-Toronto/High-Park/750-Bay-St-Toronto/86315103.html,"$760,000 CAD",2 Beds,2 Baths,899 Sqft,Residential
+694,"761 BAY Street 312, Toronto, Ontario",-79.385591,43.660143,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/761-BAY-Street/87416194.html,"$679,900 CAD",1 Bed,1 Bath,580 Sqft,Condo
+886,"77 Harbour Sq Toronto, Toronto, Ontario",-79.37889,43.64,/CA/Home-For-Sale/ON/Toronto/Harbourfront/77-Harbour-Sq-Toronto/86528263.html,"$1,150,000 CAD",2 Beds,2 Baths,1199 Sqft,Residential
+696,"770 Bay Street Toronto ON, Toronto, Ontario",-79.385869,43.660137,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/770-Bay-Street-Toronto-ON/87384263.html,"$728,000 CAD",1 Bed,1 Bath,599 Sqft,Residential
+697,"770 Bay Street, Toronto, Ontario",-79.385869,43.660137,/CA/Condo-For-Sale/ON/Toronto/Bay-Street-Corridor/770-Bay-Street/87327401.html,"$728,000 CAD",1 Bed,1 Bath,599 Sqft,Condo
+910,"78 Harrison Garden Blvd, Toronto, Ontario",-79.407116,43.756057,/CA/Condo-For-Sale/ON/Toronto/Willowdale/78-Harrison-Garden-Blvd/87327502.html,"$995,000 CAD",2 Beds,3 Baths,1500 Sqft,Condo
+699,"8 Charlotte St, Toronto, Ontario",-79.394064,43.646016,/CA/Condo-For-Sale/ON/Toronto/Entertainment-District/8-Charlotte-St/87411547.html,"$699,900 CAD",1 Bed,1 Bath,550 Sqft,Condo
+700,"8 Charlotte Street Toronto, Toronto, Ontario",-79.394064,43.646016,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/8-Charlotte-Street-Toronto/87199064.html,"$2,599,000 CAD",3 Beds,3 Baths,1799 Sqft,Residential
+934,"8 Eglinton Ave, Toronto, Ontario",-79.397771,43.707083,/CA/Home-For-Sale/ON/Toronto/Sherwood-Park/8-Eglinton-Ave/85868130.html,"$769,900 CAD",1 Bed,2 Baths,799 Sqft,Residential
+702,"8 the Esplanade ave, Toronto, Ontario",-79.376349,43.646236,/CA/Condo-For-Sale/ON/Toronto/Downtown-Toronto/St-Lawrence/8-the-Esplanade-ave/72343174.html,"$624,900 CAD",1 Bed,1 Bath,602 Sqft,Condo
+703,"8 The Esplanade, Toronto, Ontario",-79.376349,43.646236,/CA/Condo-For-Sale/ON/Toronto/Downtown-Toronto/St-Lawrence/8-The-Esplanade/87327581.html,"$649,900 CAD",1 Bed,1 Bath,699 Sqft,Condo
+704,"8 York St Toronto, Toronto, Ontario",-79.380815,43.640495,/CA/Home-For-Sale/ON/Toronto/Harbourfront/8-York-St-Toronto/86471227.html,"$1,080,000 CAD",2 Beds,2 Baths,1199 Sqft,Residential
+705,"80 Queens Wharf Rd, Toronto, Ontario",-79.399676,43.638632,/CA/Home-For-Sale/ON/Toronto/Cityplace/80-Queens-Wharf-Rd/85098778.html,"$777,000 CAD",2 Beds,2 Baths,899 Sqft,Residential
+706,"80 Yorkville Ave toronto, Toronto, Ontario",-79.391392,43.671482,/CA/Home-For-Sale/ON/Toronto/Yorkville/80-Yorkville-Ave-toronto/85683534.html,"$7,500,000 CAD",2 Beds,3 Baths,3999 Sqft,Residential
+707,"825 Church St toronto, Toronto, Ontario",-79.387029,43.672986,/CA/Home-For-Sale/ON/Toronto/Midtown-Toronto/Rosedale/825-Church-St-toronto/84989525.html,"$1,250,000 CAD",1 Bed,2 Baths,1199 Sqft,Residential
+708,"85 Queen Wharf Rd, Toronto, Ontario",-79.398839,43.638833,/CA/Home-For-Sale/ON/Toronto/Cityplace/85-Queen-Wharf-Rd/86815511.html,"$599,999 CAD",1 Bed,1 Bath,599 Sqft,Residential
+958,"87 Peter St W Toronto, Toronto, Ontario",-79.392397,43.646944,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/87-Peter-St-W-Toronto/85425451.html,"$599,900 CAD",1 Bed,1 Bath,599 Sqft,Residential
+710,"88 Blue Jays Way, Toronto, Ontario",-79.392318,43.645475,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/88-Blue-Jays-Way/85274429.html,"$669,000 CAD",1 Bed,1 Bath,599 Sqft,Residential
+982,"88 Blue Jays Way, Toronto, Ontario",-79.392318,43.645475,/CA/Home-For-Sale/ON/Toronto/Entertainment-District/88-Blue-Jays-Way/85868094.html,"$699,900 CAD",1 Bed,1 Bath,699 Sqft,Residential
+1006,"88 Cumberland St, Toronto, Ontario",-79.390689,43.670568,/CA/Condo-For-Sale/ON/Toronto/Yorkville/88-Cumberland-St/87416634.html,"$1,095,000 CAD",1 Bed,1 Bath,871 Sqft,Condo
+713,"92 King St E, Toronto, Ontario",-79.37495,43.650055,/CA/Condo-For-Sale/ON/Toronto/Old-Town/92-King-St-E/85604938.html,"$599,999 CAD",2 Beds,1 Bath,720 Sqft,Condo
+1030,"93 Berkeley St, Toronto, Ontario",-79.364605,43.653646,/CA/Condo-For-Sale/ON/Toronto/Old-Town/93-Berkeley-St/86814891.html,"$645,900 CAD",2 Beds,1 Bath,895 Sqft,Condo
+1054,"99 Broadway Avenue, Toronto, Ontario",-79.393309,43.710523,/CA/Condo-For-Sale/ON/Toronto/Sherwood-Park/99-Broadway-Avenue/79056503.html,"$549,000 CAD",1 Bed,1 Bath,595 Sqft,Condo
+716,"Lake & Town Urban Townhomes, Etobicoke, Ontario",-79.5656,43.6436,/CA/Home-For-Sale/ON/Toronto/Bloordale-West-Mall/Lake-Town-Urban-Townhomes/86557282.html,"$675,000 CAD",2 Beds,2 Baths,900 Sqft,Residential
+717,"Lower River Street, Toronto, Ontario",-79.355343,43.656321,/CA/Condo-For-Sale/ON/Toronto/Downtown-Toronto/Corktown/Lower-River-Street/82677074.html,"$649,800 CAD",2 Beds,1 Bath,605 Sqft,Condo
+718,"No address available, Toronto, Ontario",-79.397558,43.784291,/CA/Home-For-Sale/ON/Toronto/Newtonbrook/No-address-available/87460690.html,"$1,499,000 CAD",4 Beds,4 Baths,1920 Sqft,Residential
+719,"Sky Tower One Yonge Condos - 11 Yonge Street, Toronto, Ontario",-79.3849,43.6529,/CA/Home-For-Sale/ON/Toronto/Bay-Street-Corridor/Sky-Tower-One-Yonge-Condos-11-Yonge-Street/86526155.html,"$769,900 CAD",1 Bed,1 Bath,550 Sqft,Apartment

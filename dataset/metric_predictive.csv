@@ -1,0 +1,125 @@
+model_name,model,r_score,mse,rmse,mae,mape,y_pred,y_test
+RandomForestRegressor,"RandomForestRegressor(bootstrap=True, ccp_alpha=0.0, criterion='mse',
+                      max_depth=None, max_features='auto', max_leaf_nodes=None,
+                      max_samples=None, min_impurity_decrease=0.0,
+                      min_impurity_split=None, min_samples_leaf=1,
+                      min_samples_split=2, min_weight_fraction_leaf=0.0,
+                      n_estimators=100, n_jobs=None, oob_score=False,
+                      random_state=2, verbose=0, warm_start=False)",0.9072015823787835,26.075666716660706,5.106433855114615,1.9321603641456608,10.53,"[ 6.3507      5.9449      5.3981      6.1224      5.7566     28.8529
+ 54.3875      8.4526      9.5737      5.30924     8.5626      5.64751429
+  5.2113      8.34514286  9.22075238  7.64766667  6.25130429]","356     5.89
+350     5.20
+383     5.00
+34      5.00
+456     7.68
+460    31.99
+425    75.00
+559     9.00
+401     9.79
+428     6.00
+681     8.80
+603     6.39
+500     5.76
+539     8.69
+388     9.15
+387     6.75
+457     6.10
+Name: price_100K, dtype: float64"
+AdaBoostRegressor,"AdaBoostRegressor(base_estimator=None, learning_rate=0.05, loss='linear',
+                  n_estimators=50, random_state=2)",0.9794248032410622,5.781477605638782,2.404470337857962,1.3624978061154531,10.57,"[ 5.89153846  5.89153846  5.89153846  5.89153846  5.89153846 24.09666667
+ 69.98        8.26666667 10.03242424  5.89153846 10.001       5.89153846
+  5.89153846  8.26666667  7.974       8.0115      5.89153846]","356     5.89
+350     5.20
+383     5.00
+34      5.00
+456     7.68
+460    31.99
+425    75.00
+559     9.00
+401     9.79
+428     6.00
+681     8.80
+603     6.39
+500     5.76
+539     8.69
+388     9.15
+387     6.75
+457     6.10
+Name: price_100K, dtype: float64"
+GradientBoostingRegressor,"GradientBoostingRegressor(alpha=0.9, ccp_alpha=0.0, criterion='friedman_mse',
+                          init=None, learning_rate=0.05, loss='ls', max_depth=3,
+                          max_features=None, max_leaf_nodes=None,
+                          min_impurity_decrease=0.0, min_impurity_split=None,
+                          min_samples_leaf=1, min_samples_split=2,
+                          min_weight_fraction_leaf=0.0, n_estimators=100,
+                          n_iter_no_change=None, presort='deprecated',
+                          random_state=2, subsample=1.0, tol=0.0001,
+                          validation_fraction=0.1, verbose=0, warm_start=False)",0.966229394430928,9.48928956130821,3.080469048912553,1.6193639607106471,11.55,"[ 5.92490864  5.68039127  5.32170196  6.0423377   6.0423377  26.41331293
+ 64.32205594  8.37962831  9.19272998  5.87624059  8.12870954  3.73378915
+  5.95771508  9.05388368  8.37544886  8.49976194  6.10274008]","356     5.89
+350     5.20
+383     5.00
+34      5.00
+456     7.68
+460    31.99
+425    75.00
+559     9.00
+401     9.79
+428     6.00
+681     8.80
+603     6.39
+500     5.76
+539     8.69
+388     9.15
+387     6.75
+457     6.10
+Name: price_100K, dtype: float64"
+ExtraTreesRegressor,"ExtraTreesRegressor(bootstrap=False, ccp_alpha=0.0, criterion='mse',
+                    max_depth=None, max_features='auto', max_leaf_nodes=None,
+                    max_samples=None, min_impurity_decrease=0.0,
+                    min_impurity_split=None, min_samples_leaf=1,
+                    min_samples_split=2, min_weight_fraction_leaf=0.0,
+                    n_estimators=100, n_jobs=None, oob_score=False,
+                    random_state=2, verbose=0, warm_start=False)",0.9853766428049753,4.109054855359607,2.027080377133479,1.1861274509803992,10.26,"[ 6.3567      5.8542      5.8088      5.8852      6.243      30.1289
+ 67.6712      8.6075      7.6         5.3443      7.68        6.0325
+  5.4967      8.69        9.41666667  8.0067      6.32      ]","356     5.89
+350     5.20
+383     5.00
+34      5.00
+456     7.68
+460    31.99
+425    75.00
+559     9.00
+401     9.79
+428     6.00
+681     8.80
+603     6.39
+500     5.76
+539     8.69
+388     9.15
+387     6.75
+457     6.10
+Name: price_100K, dtype: float64"
+BaggingRegressor,"BaggingRegressor(base_estimator=None, bootstrap=True, bootstrap_features=False,
+                 max_features=1.0, max_samples=1.0, n_estimators=10,
+                 n_jobs=None, oob_score=False, random_state=2, verbose=0,
+                 warm_start=False)",0.7503943833799913,70.13732600653591,8.374803042850376,3.060450980392156,12.98,"[ 6.345       6.051       5.458       6.173       5.78       22.015
+ 42.079       8.752      10.12        5.105       8.512       5.671
+  5.141       8.696       9.10833333  7.711       6.287     ]","356     5.89
+350     5.20
+383     5.00
+34      5.00
+456     7.68
+460    31.99
+425    75.00
+559     9.00
+401     9.79
+428     6.00
+681     8.80
+603     6.39
+500     5.76
+539     8.69
+388     9.15
+387     6.75
+457     6.10
+Name: price_100K, dtype: float64"
